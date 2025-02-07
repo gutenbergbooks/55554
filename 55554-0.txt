@@ -1,37 +1,4 @@
-﻿The Project Gutenberg EBook of Le rêve et la vie, by Gérard de Nerval
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Le rêve et la vie
-       Les filles du feu - La bohème galante
-
-Author: Gérard de Nerval
-
-Release Date: September 15, 2017 [EBook #55554]
-
-Language: French
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LE RÊVE ET LA VIE ***
-
-
-
-
-Produced by Laura Natal Rodriguez and Marc D'Hooghe at
-Free Literature (online soon in an extended version,also
-linking to free sources for education worldwide ... MOOC's,
-educational materials,...) Images generously made available
-by the Gallica, Bibliothèque nationale de France.)
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 55554 ***
 
 LE RÊVE
 
@@ -239,7 +206,7 @@ III
 Ici a commencé pour moi ce que j'appellerai l'épanchement du songe
 dans la vie réelle. A dater de ce moment, tout prenait parfois un
 aspect double,--et cela, sans que le raisonnement manquât jamais de
-logique, sans que la mémoire perdit les plus légers détails de ce qui
+logique, sans que la mémoire perdît les plus légers détails de ce qui
 m'arrivait. Seulement, mes actions, insensées en apparence, étaient
 soumises à ce que l'on appelle illusion, selon la raison humaine...
 
@@ -299,7 +266,7 @@ rappelant une tradition bien connue en Allemagne, qui dit que chaque
 homme a un _double,_ et que, lorsqu'il le voit, la mort est proche.--Je
 fermai les yeux et j'entrai dans un état d'esprit confus où les
 figures fantasques ou réelles qui m'entouraient se brisaient en mille
-apparences fugitives. Un instant, je vis près do moi deux de mes amis
+apparences fugitives. Un instant, je vis près de moi deux de mes amis
 qui me réclamaient, les soldats me désignèrent; puis la porte s'ouvrit,
 et quelqu'un de ma taille, dont je ne voyais pas la figure, sortit avec
 mes amis que je rappelais en vain.
@@ -325,7 +292,7 @@ par l'effet de ma forte préoccupation, je tombai comme foudroyé, à la
 même heure que la veille. On me mit sur un lit, et pendant longtemps
 je perdis le sens et la liaison des images qui s'offrirent à moi. Cet
 état dura plusieurs jours. Je fus transporté dans une maison de santé.
-Beaucoup de parents et d'amis me visitèrent sans que j'en eusse, la
+Beaucoup de parents et d'amis me visitèrent sans que j'en eusse la
 connaissance. La seule différence pour moi de la veille au sommeil
 était que, dans la première, tout se transfigurait à mes yeux; chaque
 personne qui m'approchait semblait changée, les objets matériels
@@ -354,7 +321,7 @@ votre oncle rentrera tard; on vous réveillera pour souper.
 
 Je m'étendis sur un lit à colonnes drapé de perse à grandes fleurs
 rouges. Il y avait en face de moi une horloge rustique accrochée au
-mur, et sur cette horloge un piseau qui se mit à parler comme une
+mur, et sur cette horloge un oiseau qui se mit à parler comme une
 personne. Et j'avais l'idée que l'âme de mon aïeul était dans cet
 oiseau; mais je ne m'étonnais pas plus de son langage et de sa forme
 que de me voir comme transporté d'un siècle en arrière. L'oiseau me
@@ -400,7 +367,7 @@ alors, le fantôme des choses accompagnait celui du corps.
 
 J'entrai dans une vaste salle où beaucoup de personnes étaient réunies.
 Partout je retrouvais des figures connues. Les traits des parents morts
-que j'avais pleures se trouvaient reproduits dans d'autres qui, vêtus
+que j'avais pleurés se trouvaient reproduits dans d'autres qui, vêtus
 de costumes plus anciens, me faisaient le même accueil paternel. Ils
 paraissaient s'être assemblés pour un banquet de famille. Un de ces
 parents vint à moi et m'embrassa tendrement. Il portait un costume
@@ -415,7 +382,7 @@ claire aussitôt, et les images se précisaient devant mes yeux comme des
 peintures animées.
 
 --Cela est donc vrai! disais-je avec ravissement, nous sommes immortels
-et nous conservons ici les images, du monde que nous avons habité. Quel
+et nous conservons ici les images du monde que nous avons habité. Quel
 bonheur de songer que tout ce que nous avons aimé existera toujours
 autour de nous!... J'étais bien fatigué de la vie!
 
@@ -456,7 +423,7 @@ Je ne puis espérer de faire comprendre cette réponse, qui pour moi-même
 est restée très-obscure. La métaphysique ne me fournit pas de termes
 pour la perception qui me vint alors du rapport de ce nombre de
 personnes avec l'harmonie générale. On conçoit bien dans le père et
-la mère l'analogie des forées électriques de la nature; mais comment
+la mère l'analogie des forces électriques de la nature; mais comment
 établir les centres individuels émanés d'eux,--dont ils émanent, comme
 une _figure_ animique collective, dont la combinaison serait à la fois
 multiple et bornée? Autant vaudrait demander compte à la fleur du
@@ -470,7 +437,7 @@ rattachait mystérieusement aux générations antérieures des Éloïm!...
 ... L'imagination, comme un éclair, me représenta les dieux multiples
 de l'Inde comme de» images de la famille pour ainsi dire primitivement
 concentrée. Je frémis d'aller plus loin, car dans la Trinité réside
-encore on mystère redoutable... Nous sommes nés sous la loi biblique ...
+encore un mystère redoutable... Nous sommes nés sous la loi biblique ...
 
 
 V
@@ -686,7 +653,7 @@ Je ne voudrais pas abuser des pressentiments; le hasard fait d'étranges
 choses; mais je fus alors préoccupé d'un souvenir de notre union trop
 rapide. Je lui avais donné une bague d'un travail ancien dont le chaton
 était formé d'une opale taillée en cœur. Comme cette bague était trop
-grande pour son doigt, j'avais en l'idée fatale de la faire couper pour
+grande pour son doigt, j'avais eu l'idée fatale de la faire couper pour
 en diminuer l'anneau, je ne compris ma faute qu'en entendant le bruit
 de la scie. Il me sembla voir couler du sang ...
 
@@ -747,7 +714,7 @@ Puis les monstres changeaient de forme, et, dépouillant leur première
 peau, se dressaient plus puissants sous des pattes gigantesques;
 l'énorme masse de leurs corps brisait les branches et les herbages, et,
 dans le désordre de la nature, ils se livraient des combats auxquels
-«je prenais part moi-même, car j'avais un corps aussi étrange que les
+je prenais part moi-même, car j'avais un corps aussi étrange que les
 leurs. Tout à coup une singulière harmonie résonna dans nos solitudes,
 et il semblait que les cris, les rugissements et les sifflements confus
 des êtres primitifs se modulassent désormais sur cet air divin. Les
@@ -756,13 +723,13 @@ des formes divines se dessinaient sur la verdure et sur les profondeurs
 des bocages, et, désormais domptés, tous les monstres que j'avais vus
 dépouillaient leurs formes bizarres et devenaient hommes et femmes;
 d'autres revêtaient, dans leurs transformations, la figure des bêtes
-sauvages des poissons et des oiseaux.
+sauvages, des poissons et des oiseaux.
 
 Qui donc avait fait ce miracle? Une déesse rayonnante guidait dans
 ces nouveaux _avatars_ l'évolution rapide des humains. Il s'établit
 alors une distinction de races qui, partant de l'ordre des oiseaux,
 comprenait aussi les bêtes, les poissons et les reptiles: c'étaient
-les dives, les péris, les ondins elles salamandres; chaque fois qu'un
+les dives, les péris, les ondins et les salamandres; chaque fois qu'un
 de ces êtres mourait, il renaissait aussitôt sous une forme plus
 belle et chantait la gloire des dieux.--Cependant, l'un des Éloïms
 eut la pensée de créer une cinquième race, composée des éléments
@@ -779,7 +746,7 @@ entendus pour se transmettre la puissance. Entouré de femmes et
 d'esclaves, chacun de leurs souverains s'était assuré de pouvoir
 renaître sous la forme d'un de ses enfants. Leur vie était de mille
 ans. De puissants cabalistes les enfermaient, à l'approche de leur
-mort, dans des sépulcres bien gardes où ils les nourrissaient d'élixirs
+mort, dans des sépulcres bien gardés où ils les nourrissaient d'élixirs
 et de substances conservatrices. Longtemps encore ils gardaient les
 apparences de la vie; puis, semblables à la chrysalide qui file son
 cocon, ils s'endormaient quarante jours pour renaître sous la forme
@@ -888,7 +855,7 @@ cimetière, celui même où se trouvait le tombeau d'Aurélia. Je n'y
 pensai véritablement qu'alors; sans quoi, je pourrais attribuer ma
 chute à l'impression que cet aspect m'aurait fait éprouver.--Cela même
 me donna l'idée d'une fatalité plus précise. Je regrettai d'autant plus
-que la mort ne m'eût par réuni à elle. Puis, en y songeant, je me dis
+que la mort ne m'eût pas réuni à elle. Puis, en y songeant, je me dis
 que je n'en étais pas digne. Je me représentai amèrement la vie que
 j'avais menée depuis sa mort, me reprochant, non de l'avoir oubliée,
 ce qui n'était point arrivé, mais d'avoir, en de faciles amours,
@@ -913,7 +880,7 @@ la forme, et l'un de ceux qui l'accompagnaient dit:
 
 Je ne sais comment expliquer que, dans mes idées, les événements
 terrestres pouvaient coïncider avec ceux du monde surnaturel, cela
-est plus facile à _sentir qu'à,_ énoncer clairement[1]. Mais quel
+est plus facile à _sentir qu'à_ énoncer clairement[1]. Mais quel
 était donc cet Esprit qui était moi et en dehors de moi. Était-ce le
 _double_ des légendes, ou ce frère mystique que les Orientaux appellent
 _ferouër?--_N'avais-je pas été frappé de l'histoire de ce chevalier qui
@@ -962,7 +929,7 @@ Quoi qu'il fasse dans l'ombre et la nuit, j'existe, --et j'ai pour le
 vaincre tout le temps qu'il m'est donné encore de vivre sur la terre.
 
 
-[1] Cela faisait illusion, pour moi, an coup que j'avait reçu dans ma
+[1] Cela faisait illusion, pour moi, au coup que j'avais reçu dans ma
 chute.
 
 
@@ -986,7 +953,7 @@ temps de rencontrer de vastes flaques d'eau, suspendues comme le sont
 les nuages dans l'air, et toutefois offrant une telle densité, qu'on
 pouvait en détacher des flocons; mais il est clair qu'il s'agissait
 là d'un liquide différent de l'eau terrestre, et qui était sans doute
-l'évaporation de celui qui figurait la nier et les fleuves pour le
+l'évaporation de celui qui figurait la mer et les fleuves pour le
 monde des esprits.
 
 J'arrivai en vue d'une vaste plage montueuse et toute couverte d'une
@@ -1014,7 +981,7 @@ d'une végétation instantanée d'appendices fibreux d'ailerons et de
 touffes laineuses. Je m'arrêtai à contempler ce chef-d'œuvre, où l'on
 semblait avoir surpris les secrets de la création divine.
 
---C'est que nous avons ici, me dît-on, le feu primitif qui animales
+--C'est que nous avons ici, me dît-on, le feu primitif qui anima les
 premiers êtres... Jadis, il s'élançait jusqu'à la surface de la terre,
 mais les sources se sont taries.
 
@@ -1024,7 +991,7 @@ cinabre, et l'autre bleu d'azur. Les ornements n'étaient ni martelés ni
 ciselés, mais se formaient, se coloraient et s'épanouissaient comme les
 plantes métalliques qu'on fait naître de certaines mixtions chimiques.
 
---Ne créerait on pas aussi des hommes? dis-je à l'un des travailleurs.
+--Ne créerait-on pas aussi des hommes? dis-je à l'un des travailleurs.
 
 Mais il me répliqua:
 
@@ -1051,7 +1018,7 @@ parlait d'un mariage et de l'époux qui, disait-on, devait arriver pour
 annoncer le moment de la fête. Aussitôt un transport insensé s'empara
 de moi. J'imaginai que celui qu'on attendait était mon _double,_ qui
 devait épouser Aurélia, et je fis un scandale qui sembla consterner
-l'assemblée, Je me mis à parler avec violence, expliquant mes griefs et
+l'assemblée. Je me mis à parler avec violence, expliquant mes griefs et
 invoquant le secours de ceux qui me connaissaient. Un vieillard me dit:
 
 --Mais on ne se conduit pas ainsi, vous effrayez tout le monde.
@@ -1067,7 +1034,7 @@ d'une boule rougie au feu. Je voulus m'élancer sur lui, mais la boule
 qu'il tenait en arrêt menaçait toujours ma tète. On semblait autour de
 moi me railler de mon impuissance ... Alors, je me reculai jusqu'au
 trône, l'âme pleine d'un indicible orgueil, et je levai le bras pour
-faire un signe qui nie semblait avoir une puissance magique. Le cri
+faire un signe qui me semblait avoir une puissance magique. Le cri
 d'une femme, distinct et vibrant, empreint d'une douleur déchirante,
 me réveilla en sursaut! Les syllabes d'un mot inconnu que j'allais
 prononcer expiraient sur mes lèvres... Je me précipitai à terre et je
@@ -1150,8 +1117,8 @@ raison humaine, que de croire qu'elle gagne quelque chose à s'humilier
 tout entière, car ce serait accuser sa céleste origine.... Dieu
 appréciera la pureté des intentions sans doute; et quel est le père qui
 se complairait à voir son fils abdiquer devant lui tout raisonnement
-et toute fierté! L'apotre qui voulait toucher pour croire n'a pas été
-inaudit pour cela!
+et toute fierté! L'apôtre qui voulait toucher pour croire n'a pas été
+maudit pour cela!
 
 <tb>
 
@@ -1206,7 +1173,7 @@ mon ami me raconta qu'il avait été la veille au plus mal. J'entrai
 dans une chambre d'hospice, blanchie à la chaux. Le soleil découpait
 des angles joyeux sur les murs et se jouait sur un vase de fleurs
 qu'une religieuse venait de poser sur la table du malade. C'était
-presque la cellule d'un anachorète italien.--Sa ligure amaigrie, son
+presque la cellule d'un anachorète italien.--Sa figure amaigrie, son
 teint semblable à l'ivoire jauni, relevé par la couleur noire de sa
 barbe et de ses cheveux, ses yeux illuminés d'un reste de fièvre,
 peut-être aussi l'arrangement d'un manteau à capuchon, jeté sur ses
@@ -1220,7 +1187,7 @@ est impossible à rendre : un rêve sublime dans les espaces les plus
 vagues de l'infini, une conversation avec un être à la fois différent
 et participant de lui-même, et à qui, se croyant mort, il demandait où
 était Dieu. «Mais Dieu est partout, lui répondait son esprit; il est en
-toi-même et en tous. II te juge, il t'écoule, il te conseille; c'est
+toi-même et en tous. II te juge, il t'écoute, il te conseille; c'est
 toi et _moi_ qui pensons et rêvons ensemble, --et nous ne nous sommes
 jamais quittés, et nous sommes éternels!»
 
@@ -1294,7 +1261,7 @@ profanation à tant d'autres!...» Et, pour apaiser l'orage qui grondait
 dans ma tète, je me rendis à quelques lieues de Paris, dans une petite
 ville où j'avais passé quelques jours heureux au temps de ma jeunesse,
 chez de vieux parents, morts depuis. J'avais aimé souvent à y venir
-voir coucher le soleil près, de leur maison. Il y avait là une terrasse
+voir coucher le soleil près de leur maison. Il y avait là une terrasse
 ombragée de tilleuls qui me rappelait aussi le souvenir de jeunes
 filles, de parentes, parmi lesquelles j'avais grandi. Une d'elles ...
 
@@ -1313,7 +1280,7 @@ très-haute se trouvait derrière nous. En y jetant par hasard un coup
 d'œil, il me sembla reconnaître Aurélia. Elle semblait triste et
 pensive, et tout à coup, soit qu'elle sortît de la glace, soit que,
 passant dans la salle, elle se fût reflétée un instant auparavant,
-cette ligure douce et chérie se trouva près de moi. Elle me tendit la
+cette figure douce et chérie se trouva près de moi. Elle me tendit la
 main, laissa tomber sur moi un regard douloureux et me dit:
 
 --Nous nous reverrons plus tard ... à la maison de ton ami.
@@ -1399,7 +1366,7 @@ sembla qu'elle me disait:
 cette femme. Comment peux-tu donc espérer le pardon?
 
 Le rêve devint confus. Des figures de personnes que j'avais connues en
-divers temps passèrent rapidement devant mes jeux. Elles défilaient,
+divers temps passèrent rapidement devant mes yeux. Elles défilaient,
 s'éclairant, pâlissant et retombant dans la nuit comme les grains
 d'un chapelet dont le lien s'est brisé. Je vis ensuite se former
 vaguement des images plastiques de l'antiquité qui s'ébauchaient, se
@@ -1410,14 +1377,14 @@ pas compris. Les religions et les fables, les saints et les poëtes
 s'accordaient à expliquer l'énigme fatale, et tu as mal interprété...
 Maintenant, il est trop tard!»
 
-Je me levai plein de terreur, médisant:
+Je me levai plein de terreur, me disant:
 
 --C'est mon dernier jour!
 
 A dix ans d'intervalle, la même idée que j'ai tracée dans la première
 partie de ce récit me revenait plus positive encore et plus menaçante.
 Dieu m'avait laissé ce temps pour me repentir, et je n'en avais point
-profité.--Après la visite du _convive de pierre,_ je m'étais rassis an
+profité.--Après la visite du _convive de pierre,_ je m'étais rassis au
 festin!
 
 
@@ -1551,7 +1518,7 @@ avancé une somme sur ce travail. Je pris le chemin de sa maison pour
 lui rendre l'argent.
 
 En tournant la barrière de Clichy, je fus témoin d'une dispute.
-J'essayai de séparer les combattants, mais je n'y pu? réussir. En ce
+J'essayai de séparer les combattants, mais je n'y pus réussir. En ce
 moment, un ouvrier de grande taille passa sur la place même où le
 combat venait d'avoir lieu, portant sur l'épaule gauche un enfant
 vêtu d'une robe couleur d'hyacinthe. Je m'imaginai que c'était saint
@@ -1560,27 +1527,25 @@ de force dans la scène qui venait de se passer. A dater de ce moment,
 j'errai en proie au désespoir dans les terrains vagues qui séparent
 le faubourg de la barrière. Il était trop tard pour faire la visite
 que j'avais projetée. Je revins donc à travers les rues vers le centre
-de Paris. An coin de la rue de la Victoire, je rencontrai un prêtre,
+de Paris. Au coin de la rue de la Victoire, je rencontrai un prêtre,
 et, dans le désordre où j'étais, je voulus me confesser à lui. Il me
 dit qu'il n'était pas de la paroisse et qu'il allait en soirée chez
 quelqu'un; que, si je voulais le consulter le lendemain à Notre-Dame,
 je n'avais qu'à demander l'abbé Dubois.
 
 Désespéré, je me dirigeai en pleurant vers Notre-Dame de Lorette, où
-j'allai me jeter au pied de l'autel de la Vierge, demandant pardon pour
-mes fautes. Quelque chose en moi me disait: «La Vierge est morte et tes
-prières sont inutiles.
-
-»J'allai me mettre à genoux aux dernières places du chœur, et je fis
-glisser de mon doigt une bague d'argent dont le chaton portait gravés
-ces trois mots arabes: _Allah! Mohamed! Ali!_ Aussitôt plusieurs
-bougies s'allumèrent dans le chœur, et l'on commença un office auquel
-je tentai de m'unir en esprit. Quand on en fut à l'_Ave Maria,_ le
-prêtre s'interrompit au milieu de l'oraison et recommença sept fois
-sans que je pusse retrouver dans ma mémoire les paroles suivantes. On
-termina ensuite la prière, et le prêtre fit un discours qui me semblait
-faire allusion à moi seul. Quand tout fut éteint, je me levai et je
-sortis, me dirigeant vers les Champs-Élysées.
+j'allai me jeter au pied de l'autel de la Vierge, demandant pardon
+pour mes fautes. Quelque chose en moi me disait: La Vierge est morte
+et tes prières sont inutiles. J'allai me mettre à genoux aux dernières
+places du chœur, et je fis glisser de mon doigt une bague d'argent
+dont le chaton portait gravés ces trois mots arabes: _Allah! Mohamed!
+Ali!_ Aussitôt plusieurs bougies s'allumèrent dans le chœur, et l'on
+commença un office auquel je tentai de m'unir en esprit. Quand on en
+fut à l'_Ave Maria,_ le prêtre s'interrompit au milieu de l'oraison
+et recommença sept fois sans que je pusse retrouver dans ma mémoire
+les paroles suivantes. On termina ensuite la prière, et le prêtre fit
+un discours qui me semblait faire allusion à moi seul. Quand tout fut
+éteint, je me levai et je sortis, me dirigeant vers les Champs-Élysées.
 
 Arrivé sur la place de la Concorde, ma pensée était de me détruire. A
 plusieurs reprises, je me dirigeai vers la Seine, mais quelque chose
@@ -1671,7 +1636,7 @@ je m'agenouillai pieusement à l'autel de la Vierge en pensant à ma
 mère. Les pleurs que je versai détendirent mon âme, et, en sortant de
 l'église, j'achetai un anneau d'argent. De là, j'allai rendre visite
 à mon père, chez lequel je laissai un bouquet de marguerites, car il
-était absent. J'allai de là an Jardin des Plantes. Il y avait beaucoup
+était absent. J'allai de là au Jardin des Plantes. Il y avait beaucoup
 de monde, et je restai quelque temps à regarder l'hippopotame qui
 se baignait dans un bassin.--J'allai ensuite visiter les galeries
 d'ostéologie. La vue des monstres qu'elles renferment me fit penser au
@@ -1690,7 +1655,7 @@ Puis, je me dis:
 L'eau s'élevait dans les rues voisines; je descendis en courant la rue
 Saint-Victor, et, dans l'idée d'arrêter ce que je croyais l'inondation
 universelle, je jetai à l'endroit le plus profond l'anneau que j'avais
-acheté à Saint-Eustache. Vers la même moment, l'orage s'apaisa, et un
+acheté à Saint-Eustache. Vers le même moment, l'orage s'apaisa, et un
 rayon de soleil commença à briller.
 
 L'espoir rentra dans mon âme. J'avais rendez-vous à quatre heures chez
@@ -1703,7 +1668,7 @@ vêtements et me couchai sur son lit. Pendant mon sommeil, j'eus une
 vision merveilleuse. Il me semblait que la déesse m'apparaissait, me
 disant. «Je suis la même que Marie, la même que ta mère, la même aussi
 que sous toutes les formes tu as toujours aimée. A chacune de tes
-épreuves, j'ai quitte l'un des masques dont je voile mes traits, et
+épreuves, j'ai quitté l'un des masques dont je voile mes traits, et
 bientôt tu me verras telle que je suis ...» Un verger délicieux sortait
 des nuages derrière elle, une lumière douce et pénétrante éclairait ce
 paradis, et cependant je n'entendais que sa voix, mais je me sentais
@@ -1745,7 +1710,7 @@ pouvoir de guérir me fit imposer les mains à quelques malades, et,
 m'approchant d'une statue de la Vierge, j'enlevai la couronne de fleurs
 artificielles pour appuyer le pouvoir que je me croyais. Je marchai
 à grands pas, parlant avec animation de l'ignorance des hommes qui
-croyaient pouvoir guérir avec la science seule, et, voyant sur a table
+croyaient pouvoir guérir avec la science seule, et, voyant sur la table
 un flacon d'éther, je l'avalai d'une gorgée. Un interne d'une figure
 que je comparais à celle des anges, voulut m'arrêter, mais la force
 nerveuse me soutenait, et, prêt à le renverser, je m'arrêtai, lui
@@ -1803,7 +1768,7 @@ les maux de l'humanité. Je croyais encore que les esprits célestes
 avaient pris des formes humaines et assistaient à ce congrès général,
 tout en paraissant occupés de soins vulgaires. Mon rôle me semblait
 être de rétablir l'harmonie universelle par art cabalistique et de
-chercher une solution en évoquant les forées occultes des diverses
+chercher une solution en évoquant les forces occultes des diverses
 religions.
 
 Outre le promenoir, nous avions encore une salle dont les vitres
@@ -1815,7 +1780,7 @@ rappelaient les kiosques impériaux bordant le Bosphore. Cela conduisit
 naturellement ma pensée aux préoccupations orientales. Vers deux
 heures, on me mit au bain, et je me crus servi par les Walkyries,
 filles d'Odin, qui voulaient m'élever à l'immortalité en dépouillant
-peu à peu mon corps de ce qu'il avait «l'impur.
+peu à peu mon corps de ce qu'il avait l'impur.
 
 Je me promenai le soir plein de sérénité aux rayons de la lune, et, en
 levant les yeux vers les arbres, il me semblait que les feuilles se
@@ -1909,7 +1874,7 @@ au ciel! Cependant, il me semblait que cet astre était le refuge de
 toutes les âmes soeurs de la mienne, et je le voyais peuplé d'ombres
 plaintives destinées à renaître un jour sur la terre ...
 
-Ma chambre est à l'extrémité d'un corridor habité d'an côté par les
+Ma chambre est à l'extrémité d'un corridor habité d'un côté par les
 fous, et de l'autre par les domestiques de la maison. Elle a seule le
 privilège d'une fenêtre, percée du côté de la cour, plantée d'arbres,
 qui sert de promenoir pendant la journée. Mes regards s'arrêtent
@@ -1918,15 +1883,15 @@ Au-dessus, l'on aperçoit vaguement une rue assez fréquentée, à travers
 des treillages peints en vert. Au couchant, l'horizon s'élargit; c'est
 comme un hameau aux fenêtres revêtues de verdure ou embarrassées de
 cages, de loques qui sèchent, et d'où l'on voit sortir par instant
-quelque profil de jeune ou vieille ménagère, quelque tète rose
+quelque profil de jeune ou vieille ménagère, quelque tête rose
 d'enfant. On crie, on chante, on rit aux éclats; c'est gai ou triste à
 entendre, selon les heures et selon les impressions.
 
 J'ai trouvé là tous les débris de mes diverses fortunes, les restes
 confus de plusieurs mobiliers dispersés ou revendus depuis vingt ans.
 C'est un capharnaùm comme celui du docteur Faust. Une table antique à
-trépied aux tètes d'aigle, une console soutenue par un sphinx ailé,
-une commode du xviie siècle, une bibliothèque du xviiie un lit du même
+trépied aux têtes d'aigle, une console soutenue par un sphinx ailé,
+une commode du xviie siècle, une bibliothèque du xviiie, un lit du même
 temps, dont le baldaquin, à ciel ovale, est revêtu de lampas rouge
 (mais on n'a pu dresser ce dernier); une étagère rustique chargée de
 faïences et de porcelaines de Sèvres, assez endommagées la plupart; un
@@ -1953,13 +1918,13 @@ Valais, dont j'avais fait partie dans ma jeunesse; les armes étaient
 vendues depuis les lois nouvelles. En somme, je retrouvais là à peu
 près tout ce que j'avais possédé en dernier lieu. Mes livres, amas
 bizarre de la science de tous les temps, histoire, voyages, religions,
-cabale, astrologie, à réjouir les ombres de Pie de la Mirandole, du
+cabale, astrologie, à réjouir les ombres de Pic de la Mirandole, du
 sage Meursius et de Nicolas de Cusa,--la tour de Babel en deux cents
 volumes,--on m'avait laissé tout cela! Il y avait de quoi rendre fou un
 sage; tâchons qu'il y ait aussi de quoi rendre sage un fou.
 
 Avec quelles délices j'ai pu classer dans mes tiroirs l'amas de mes
-notes et de nies correspondances intimes ou publiques, obscures ou
+notes et de mes correspondances intimes ou publiques, obscures ou
 illustres, comme les a faites le hasard des rencontres ou des pays
 lointains que j'ai parcourus. Dans des rouleaux mieux enveloppés que
 les autres, je retrouve des lettres arabes, des reliques du Caire et de
@@ -2013,7 +1978,7 @@ loyauté. Mais songez au désespoir où me livrerait votre changement dans
 nos relations actuelles, ô mon Dieu!
 
 Pour la jalousie, c'est un côté bien mort chez moi. Quand j'ai pris
-une résolution, elle est ferme; quand je me suis résigne, c'est pour
+une résolution, elle est ferme; quand je me suis résigné, c'est pour
 tout de bon. Je pense à d'autres choses et j'arrange mes idées d'après
 les circonstances. Mon esprit sait toujours plier devant les faits
 irrévocables. Ainsi, ma belle amie, vous me connaissez bien maintenant.
@@ -2086,7 +2051,7 @@ suis fidèle, je le jure devant Dieu. Si vous tenez un peu à moi,
 voulez-vous m'abandonner encore à ces vaines ardeurs qui me tuent?
 Je vous avoue tout cela pour que vous y songiez plus tard; car, je
 vous l'ai dit, quelque espoir que vous ayez bien voulu me donner, ce
-n'est pas à. un jour fixe que je voudrais vous obtenir, mais arrangez
+n'est pas à un jour fixe que je voudrais vous obtenir, mais arrangez
 les choses pour le mieux. Ah! je le sais, les femmes aiment qu'on les
 force un peu; elles ne veulent point paraître céder sans contrainte.
 Mais, songez-y, vous n'êtes pas pour moi comme les autres femmes; je
@@ -2124,7 +2089,7 @@ mon cœur sur un autre. Vous m'aimez, oui, beaucoup moins que je ne
 vous aime, sans doute, mais vous m'aimez, et sans cela je n'aurais pas
 pénétré aussi avant dans votre intimité. Eh bien, vous comprendrez
 tout ce que je cherche à vous exprimer. Autant cela serait choquant
-pour une tète froide, autant cela doit toucher un cœur indulgent et
+pour une tête froide, autant cela doit toucher un cœur indulgent et
 tendre.
 
 Un mouvement de vous m'a fait plaisir, c'est que vous avez paru
@@ -2145,10 +2110,10 @@ donnez lieu de chercher à vous rendre fière de moi. Vous vous plaignez
 de quelques heures que je vous ai fait perdre; moi, mon amour m'a
 fait perdre des années, et pourtant je les ressaisirais bien vite si
 vous vouliez. Que m'importe la renommée, tant qu'elle ne prendra pas
-vos traits pour nie couronner? Jusque-là, il y aura une gloire dans
+vos traits pour me couronner? Jusque-là, il y aura une gloire dans
 laquelle la mienne s'absorbera toujours: c'est la vôtre; et jamais
 mes assiduités les plus grandes ne tendront à vous la faire oublier.
-Étudiez donc fortement, mais accordez-moi quelques uns de vos instants
+Étudiez donc fortement, mais accordez-moi quelques-uns de vos instants
 de repos. Je vous avouerai que je suis aujourd'hui d'une humeur fort
 peu tragique, et que je risque dès lors beaucoup moins de vous déranger.
 
@@ -2189,7 +2154,7 @@ inégalités, de quelques folies, si excusables dans ma situation. Cela
 vient-il d'ailleurs? dites-le moi; ma pensée vous préoccupe, et je ne
 puis la pénétrer; à qui en voulez-vous? qui vous a offensée? qui vous a
 trahie? Donnez-moi quelque chose où me prendre, quelqu'un à insulter,
-à combattre! j'en ai besoin 1 que je vous serve sans espoir et sans
+à combattre! j'en ai besoin! que je vous serve sans espoir et sans
 récompense, et que je vous délivre de moi, s'il plaît à Dieu! mais que
 je sorte au mois de l'état de doute où je vis.
 
@@ -2253,7 +2218,7 @@ il fallait une résistance inouïe; à ces ruses, à ces travaux, à cette
 sourde et constante activité qui ne néglige aucun moyen, qui ne
 repousse aucune concession, ardente comme une passion espagnole, souple
 comme un amour italien, il fallait toutes les ressources, toutes les
-finesses de la femme, tout ce qu'une tète intelligente peut rassembler
+finesses de la femme, tout ce qu'une tête intelligente peut rassembler
 de force contre un coeur bien résolu. Il fallait tout cela, sans doute,
 et je vous aurais peu estimée d'avoir cru la résistance plus facile et
 l'épreuve moins dangereuse.
@@ -2271,7 +2236,7 @@ joie qui fait éclater toutes les facultés humaines. C'est un point
 lumineux dans l'existence, qui ne tarde pas à pâlir et à s'éteindre.
 Mais, pour le cœur profondément épris, l'excès d'émotion contracte
 pour un instant tous les ressorts de la vie; le trouble est grand, la
-convulsion est profonde, et la tète se courbe en frémissant comme sons
+convulsion est profonde, et la tête se courbe en frémissant comme sons
 le souffle d'un Dieu. Hélas! que sommes-nous, pauvres créatures! et
 comment répondre dignement à la puissance de sentir que le ciel a mise
 en notre âme? Je ne suis qu'un homme et vous une femme, et l'amour qui
@@ -2291,7 +2256,7 @@ voyais briller des trésors, des châles et des tapisseries. Un paysage
 porte, et il me semblait reconnaître la figure des troncs d'arbres et
 des rochers. J'avais déjà séjourné là dans quelque autre existence, et
 je croyais reconnaître les profondes grottes d'Ellorah. Peu à peu un
-jour bleuâtre pénétra dans le kiosque et y fit apparaître dès images
+jour bleuâtre pénétra dans le kiosque et y fit apparaître des images
 bizarres. Je crus alors me trouver au milieu d'un vaste charnier où
 l'histoire universelle était écrite en traits de sang. Le corps d'une
 femme gigantesque était peint en face de moi; seulement, ses diverses
@@ -2313,7 +2278,7 @@ des jours de la porte, la génération descendante des races de l'avenir.
 Je fus enfin arraché à cette sombre contemplation. La figure bonne et
 compatissante de mon excellent médecin me rendit au monde des vivants.
 Il me fit assister à un spectacle qui m'intéressa vivement. Parmi les
-malades se, trouvait un jeune homme, ancien soldat d'Afrique, qui
+malades se trouvait un jeune homme, ancien soldat d'Afrique, qui
 depuis six semaines se refusait à prendre de la nourriture. Au moyen
 d'un long tuyau de caoutchouc introduit dans une narine, on lui faisait
 couler dans l'estomac une assez grande quantité de semoule ou de
@@ -2339,7 +2304,7 @@ tour, si profonde du côté de la terre et si haute du côté du ciel,
 que toute mon existence semblait devoir se consumer à monter et à
 descendre. Déjà mes forces s'étaient épuisées, et j'allais manquer
 de courage, quand une porte latérale vint à s'ouvrir; un esprit se
-présente et me dit:
+présenta et me dit:
 
 --Viens, mon frère!...
 
@@ -2348,7 +2313,7 @@ avait les traits du pauvre malade, mais transfigurés et intelligents.
 Nous étions dans une campagne éclairée des feux des étoiles, nous nous
 arrêtâmes à contempler ce spectacle, et l'esprit étendit sa main sur
 mon front comme je l'avais fait la veille en cherchant à magnétiser
-mon compagnon; aussitôt une des étoiles que je voyais an ciel se mit
+mon compagnon; aussitôt une des étoiles que je voyais au ciel se mit
 à grandir, et la divinité de mes rêves m'apparut souriante, dans un
 costume presque indien, telle que je l'avais vue autrefois. Elle marcha
 entre nous deux, et les prés verdissaient, les fleurs et les feuillages
@@ -2366,7 +2331,7 @@ pourquoi il m'est permis à moi-même de venir et de t'encourager.
 La joie que ce rêve répandit dans mon esprit me procura un réveil
 délicieux. Le jour commençait à poindre. Je voulus avoir un signe
 matériel de l'apparition qui m'avait consolé, et j'écrivis sur le mur
-ces mots: «Tu m'as visité cette nuit.
+ces mots: «Tu m'as visité cette nuit.»
 
 J'inscris ici, sous le titre de _Mémorables_, les impressions de
 plusieurs rêves qui suivirent celui que je viens de rapporter.
@@ -2491,7 +2456,7 @@ gris qui se mit à miauler.
 
 Et elle entra dans la maison.
 
-Cette huit, mon rêve s'est transporté d'abord à Vienne. --On sait
+Cette nuit, mon rêve s'est transporté d'abord à Vienne. --On sait
 que sur chacune des places de cette ville sont élevées de grandes
 colonnes qu'on appelle _pardons._ Des nuages de marbre s'accumulent
 en figurant l'ordre salomonique et supportent des globes où président
@@ -2500,8 +2465,8 @@ assises des divinités. Tout à coup, ô merveille! je me mis à songer
 impérial à Weimar.--Une mélancolie pleine de douceur me fit voir les
 brumes colorées d'un paysage de Norvège éclairé d'un jour gris et doux.
 Les nuages devinrent transparents, et je vis se creuser devant moi
-un abîme profond où, s'engouffraient tumultueusement les flots de la
-Baltique glacée» Il semblait que le fleuve entier de la Neva, aux eaux
+un abîme profond où s'engouffraient tumultueusement les flots de la
+Baltique glacée. Il semblait que le fleuve entier de la Neva, aux eaux
 bleues, dût s'engloutir dans cette fissure du globe. Les vaisseaux de
 Cronstadt et de Saint-Pétersbourg s'agitaient sur leurs ancres, prêts à
 se détacher et à disparaître dans le gouffre, quand une lumière divine
@@ -2713,7 +2678,7 @@ le beau ténébreux, adoré des marquises comme des présidentes, moi,
 le favori bien indigne de madame Bouvillon, je n'ai pas été mieux
 traité que ce pauvre Ragotin, un poétereau de province, un robin!...
 Ma bonne mine, défigurée d'un vaste emplâtre, n'a servi même qu'à me
-perdre plus sûrement. L'hôte, séduit par les discours de La rancune,
+perdre plus sûrement. L'hôte, séduit par les discours de La Rancune,
 a bien voulu se contenter de tenir en gage le propre fils du grand
 khan de Crimée envoyé ici pour faire ses études, et avantageusement
 connu dans toute l'Europe chrétienne sous le pseudonyme de Brisacier.
@@ -3077,7 +3042,7 @@ mélancolie et de douceur. Il jetait de l'or sur une table de whist et
 le perdait avec indifférence.
 
 --Que m'importe, dis-je, lui ou tout autre? Il fallait qu'il y en eût
-un, et celui-là me paraît digue d'avoir été choisi.
+un, et celui-là me paraît digne d'avoir été choisi.
 
 --Et toi?
 
@@ -3141,7 +3106,7 @@ et de tilleuls, dont le soleil couchant perçait le feuillage de ses
 traits enflammés. Des jeunes filles dansaient en rond sur la pelouse en
 chantant de vieux airs transmis par leurs mères, et d'un français si
 naturellement pur, que l'on se sentait bien exister dans ce vieux pays
-du Valois, on, pendant plus de mille ans, a battu le cœur de la France.
+du Valois, où, pendant plus de mille ans, a battu le cœur de la France.
 
 J'étais le seul garçon dans cette ronde, où j'avais amené ma compagne
 toute jeune encore, Sylvie, une petite fille du hameau voisin, si
@@ -3182,13 +3147,13 @@ Adrienne se leva. Développant sa taille élancée, elle nous fit un
 salut gracieux, et rentra en courant dans le château. --C'était, nous
 dit-on, la petite-fille de l'un des descendants d'une famille alliée
 aux anciens rois de France; le sang des Valois coulait dans ses veines.
-Pour ce jour de fête, on lui avait permis de se mêler â nos jeux; nous
+Pour ce jour de fête, on lui avait permis de se mêler à nos jeux; nous
 ne devions plus la revoir, car, le lendemain, elle repartit pour un
 couvent où elle était pensionnaire.
 
 Quand je revins près de Sylvie, je m'aperçus qu'elle pleurait. La
 couronne donnée par mes mains à la belle chanteuse était le sujet de
-ses larmes. Je lui offris d'en aller cueillir une autre; niais elle
+ses larmes. Je lui offris d'en aller cueillir une autre; mais elle
 dit qu'elle n'y tenait nullement, ne la méritant pas. Je voulus en
 vain me défendre, elle ne me dit plus un seul mot pendant que je la
 reconduisais chez ses parents.
@@ -3196,7 +3161,7 @@ reconduisais chez ses parents.
 Rappelé moi-même à Paris pour y reprendre mes études, j'emportai cette
 double image d'une amitié tendre tristement rompue,--puis d'un amour
 impossible et vague, source de pensées douloureuses que la philosophie
-de collège était, impuissante à calmer.
+de collège était impuissante à calmer.
 
 La figure d'Adrienne resta seule triomphante,--mirage de la gloire et
 de la beauté, adoucissant ou partageant les heures des sévères études.
@@ -3281,7 +3246,7 @@ stationnant pour les habitués des cercles et des maisons de jeu.
 --Je vais vous conduire à la poste, dit le cocher moins préoccupé que
 moi.
 
-Quelle triste route, la nuit, que cette roule de Flandre, qui ne
+Quelle triste route, la nuit, que cette route de Flandre, qui ne
 devient belle qu'en atteignant la zone des forêts! Toujours ces deux
 files d'arbres monotones qui grimacent des formes vagues; au delà,
 des carrés de verdure et de terres remuées, bornés à gauche par les
@@ -3291,7 +3256,7 @@ Fronde ...
 
 Plus loin que Louvres est un chemin bordé de pommiers dont j'ai vu bien
 des fois les fleurs éclater dans la nuit comme des étoiles de la terre:
-c'était, le plus court pour gagner les hameaux.--Pendant que la voiture
+c'était le plus court pour gagner les hameaux.--Pendant que la voiture
 monte les côtes, recomposons les souvenirs du temps où j'y venais si
 souvent.
 
@@ -3320,9 +3285,9 @@ ovale à colonnes qui devait servir de salle pour le festin. Là, comme
 à Ermenonville, le pays est semé de ces édifices légers de la fin du
 xviiie siècle, où des millionnaires philosophes se sont inspirés dans
 leurs plans du goût dominant d'alors. Je crois bien que ce temple avait
-dû être primitivement dédié à Uranie. Trois colonnes avaient, succombé,
+dû être primitivement dédié à Uranie. Trois colonnes avaient succombé,
 emportant dans leur chute une partie de l'architrave; mais on avait
-déblayé l'intérieur de la salle, suspendu des guirlandes enlie les
+déblayé l'intérieur de la salle, suspendu des guirlandes entre les
 colonnes, on avait rajeuni cette ruine moderne, --qui appartenait au
 paganisme de Boufflers ou de Chaulieu plutôt qu'à celui d'Horace.
 
@@ -3348,7 +3313,7 @@ intention.
 village, et Paris est si au-dessus!
 
 Je voulus l'embrasser pour lui fermer la bouche; mais elle me boudait
-encore, et il fallut que son frère intervint pour qu'elle m'offrit
+encore, et il fallut que son frère intervînt pour qu'elle m'offrît
 sa joue d'un air indifférent. Je n'eus aucune joie de ce baiser dont
 bien d'autres obtenaient la faveur, car, dans ce pays patriarcal où
 l'on salue tout homme qui passe, un baiser n'est autre chose qu'une
@@ -3358,7 +3323,7 @@ Une surprise avait été arrangée par les ordonnateurs de la fête. A
 la fin du repas, on vit s'envoler du fond de la vaste corbeille un
 cygne sauvage, jusque-là captif sous les fleurs, qui, de ses fortes
 ailes, soulevant des lacis de guirlandes et de couronnes, finit par
-les disperser de tous côtés, Pendant qu'il s'élançait joyeux vers les
+les disperser de tous côtés. Pendant qu'il s'élançait joyeux vers les
 dernières lueurs du soleil, nous rattrapions au hasard les couronnes
 dont chacun paraît aussitôt le front de sa voisine. J'eus le bonheur de
 saisir une des plus belles, et Sylvie, souriante, se laissa embrasser
@@ -3395,7 +3360,7 @@ LE VILLAGE
 C'était à Loisy, dans l'ancienne maison du garde. Je les conduisis
 jusque-là, puis je retournai à Montagny, où je demeurais chez mon
 oncle. En quittant le chemin pour traverser un petit bois qui sépare
-Loisy de Saint-S ..., je ne tardai pas à m'engager dans une _sente_
+Loisy de Saint-S..., je ne tardai pas à m'engager dans une _sente_
 profonde qui longe la forêt d'Ermenonville; je m'attendais ensuite
 à rencontrer les murs d'un couvent qu'il fallait longer pendant un
 quart de lieue. La lune se cachait de temps à autre sous les nuages,
@@ -3411,7 +3376,7 @@ L'air était tiède et embaumé; je résolus de ne pas aller plus loin et
 d'attendre le matin, en me couchant sur des touffes de bruyères.--En
 me réveillant, je reconnus peu à peu les points voisins du lieu où je
 m'étais égaré dans la nuit. A ma gauche, je vis se dessiner la longue
-ligne des murs du couvent de Saint-S ..., puis, de l'autre côté de
+ligne des murs du couvent de Saint-S..., puis, de l'autre côté de
 la vallée, la butte aux Gens-d'Armes, avec les ruines ébréchées de
 l'antique résidence carlovingienne. Près de là, au-dessus des touffes
 de bois, les hautes masures de l'abbaye de Thiers découpaient sur
@@ -3437,7 +3402,7 @@ Et je repris le chemin de Loisy.
 
 Voici le village au bout de la sente qui côtoie la forêt: vingt
 chaumières dont la vigne et les roses grimpantes festonnent les murs.
-Des fileuses matinales, coiffées, de mouchoirs rouges, travaillent,
+Des fileuses matinales, coiffées de mouchoirs rouges, travaillent,
 réunies devant une ferme. Sylvie n'est point avec elles. C'est presque
 une demoiselle depuis qu'elle exécute de fines dentelles, tandis
 que ses parents sont restés de bons villageois.--Je suis monté à sa
@@ -3539,7 +3504,7 @@ présent.
 Et elle avait décroché la poêle et jeté un fagot dans la haute cheminée.
 
 --Je ne veux pas que tu touches à cela! dit-elle à Sylvie, qui voulait
-l'aider; abîmer tes jolis doigts qui font de la dentelle plus' belle
+l'aider; abîmer tes jolis doigts qui font de la dentelle plus belle
 qu'à Chantilly! tu m'en as donné, et je m'y connais.
 
 --Ah! oui, la tante!... Dites donc, si vous en avez des morceaux de
@@ -3596,7 +3561,7 @@ sur la taille mince de Sylvie, qui me dit de l'agrafer.
 
 --Oh! les manches plates, que c'est ridicule! dit-elle.
 
-Et; cependant, les sabots garnis de dentelles découvraient
+Et, cependant, les sabots garnis de dentelles découvraient
 admirablement ses bras nus, la gorge s'encadrait dans le pur corsage
 aux tulles jaunis, aux rubans passés, qui n'avait serré que bien peu
 les charmes évanouis de la tante.
@@ -3613,7 +3578,7 @@ Elle avait l'air de l'accordée de village de Greuze.
 Elle fureta de nouveau dans les tiroirs. Oh! que de richesses! que
 cela sentait bon, comme cela brillait, comme cela chatoyait de vives
 couleurs et de modeste clinquant! deux éventails de nacre un peu
-cassés, des boites de pâte à sujets chinois, un collier d'ambre et
+cassés, des boîtes de pâte à sujets chinois, un collier d'ambre et
 mille fanfreluches, parmi lesquelles éclataient deux petits souliers de
 droguet blanc avec des boucles incrustées de diamants d'Irlande!
 
@@ -3854,7 +3819,7 @@ retiré chez moi.
 Le jardin présentait un magnifique tableau de végétation sauvage. J'y
 reconnus, dans un angle, un jardin d'enfant que j'avais tracé jadis.
 J'entrai tout frémissant dans le cabinet, où se voyait encore la petite
-bibliothèque pleine de livres choisis, Vieux amis de celui qui n'était
+bibliothèque pleine de livres choisis. Vieux amis de celui qui n'était
 plus, et sur le bureau quelques débris antiques trouvés dans son
 jardin, des vases, des médailles romaines, collection locale qui le
 rendait heureux.
@@ -3880,7 +3845,7 @@ Un instant, je risquai de me perdre, car les poteaux dont les palettes
 annoncent diverses routes n'offrent plus, par endroits, que des
 caractères effacés. Enfin, laissant le _Désert_ à gauche, j'arrivai au
 rond-point de la danse, où subsiste encore le banc des vieillards. Tous
-les souvenirs de l'antiquité philosophique, ressuscites par l'ancien
+les souvenirs de l'antiquité philosophique, ressuscités par l'ancien
 possesseur du domaine, me revenaient en foule devant cette réalisation
 pittoresque de l'_Anacharsis_ et de l'_Émile._
 
@@ -3904,7 +3869,7 @@ Virgile fleurit encore, comme pour appuyer la parole du maître inscrite
 au-dessus de la porte: _Rerum cognoscere causas!--_Oui, ce temple tombe
 comme tant d'autres, les hommes oublieux ou fatigués se détourneront de
 ses abords, la nature indifférente reprendra le terrain que l'art lui
-disputait; mais la soif de connaître restera éternelle, mobile de tout
+disputait; mais la soif de connaître restera éternelle, mobile de toute
 force et de toute activité!
 
 Voici les peupliers de l'Ile, et la tombe de Rousseau, vide de ses
@@ -3918,8 +3883,8 @@ J'ai revu le château, les eaux paisibles qui le bordent, la cascade qui
 gémit dans les roches, et cette chaussée réunissant les deux parties
 du village, dont quatre colombiers marquent les angles, la pelouse qui
 s'étend au delà comme une savane, dominée par des coteaux ombreux;
-la tour de Gabrielle se reflète de loin sur les eaux d'un lactactice
-étoile de fleurs éphémères; l'écume bouillonne, l'insecte bruit...
+la tour de Gabrielle se reflète de loin sur les eaux d'un lac factice
+étoilé de fleurs éphémères; l'écume bouillonne, l'insecte bruit...
 Il faut échapper à l'air perfide qui s'exhale, en gagnant les grès
 poudreux du désert et les landes où la bruyère rose relève le vert des
 fougères. Que tout cela est solitaire et triste! Le regard enchanté
@@ -3932,7 +3897,7 @@ et l'on me disait:
 
 --Qu'elle est jolie, ton amoureuse, petit Parisien!
 
-Oh! ce n'est pas alors qu'an paysan aurait dansé avec elle! Elle ne
+Oh! ce n'est pas alors qu'un paysan aurait dansé avec elle! Elle ne
 dansait qu'avec moi, une fois par an, à la fête de l'arc.
 
 
@@ -4007,7 +3972,7 @@ grande?
 --On nous mettait sur l'âne chacun dans un panier.
 
 --Et nous ne nous disions pas _vous ..._ Te rappelles-tu que tu
-m'apprenais à pécher des écrevisses sous les ponts de la Thève et de la
+m'apprenais à pêcher des écrevisses sous les ponts de la Thève et de la
 Nonette?
 
 --Et toi, te souviens-tu de ton frère de lait qui t'a un jour retiré
@@ -4051,7 +4016,7 @@ sombre de la forêt.
 --Et qui vous a parlé de Walter Scott? lui dis-je. Vous avez donc bien
 lu depuis trois ans!... Moi, je tâche d'oublier les livres, et ce qui
 me charme, c'est de revoir avec vous cette vieille abbaye, où, tout
-petits enfants, nous nous cachions dans les ruines. Vous souvenez-vous.
+petits enfants, nous nous cachions dans les ruines. Vous souvenez-vous,
 Sylvie, de la peur que vous aviez quand le gardien nous racontait
 l'histoire des moines rouges?
 
@@ -4092,7 +4057,7 @@ entendre parler un Parisien? Alors, j'eus le malheur de raconter
 l'apparition de Châalis, restée dans mes souvenirs. Je menai Sylvie
 dans la salle même du château où j'avais entendu chanter Adrienne.
 
---Oh! que je vous entende! lui dis je; que votre voix chérie résonne
+--Oh! que je vous entende! lui dis-je; que votre voix chérie résonne
 sous ces voûtes et en chasse l'esprit qui me tourmente, fût-il divin ou
 bien fatal!
 
@@ -4130,7 +4095,7 @@ Les femmes sentent-elles vraiment que telle ou telle parole passe sur
 les lèvres sans sortir du cœur? On ne le croirait pas, à les voir si
 facilement abusées, à se rendre compte des choix qu'elles font le plus
 souvent: il y a des hommes qui jouent si bien la comédie de l'amour!
-Je n'ai jamais pu m'y faire, quoique sachant-que certaines acceptent
+Je n'ai jamais pu m'y faire, quoique sachant que certaines acceptent
 sciemment d'être trompées. D'ailleurs, un amour qui remonte à l'enfance
 est quelque chose de sacré... Sylvie, que j'avais vue grandir, était
 pour moi comme une sœur. Je ne pouvais tenter une séduction... Une
@@ -4261,7 +4226,7 @@ AURÉLIE
 
 A Paris!--La voiture met cinq heures. Je n'étais pressé d'arriver
 que pour le soir. Vers huit heures, j'étais assis dans ma stalle
-accoutumée; Aurélie répandit son inspiration et son, charme sur des
+accoutumée; Aurélie répandit son inspiration et son charme sur des
 vers faiblement inspirés de Schiller que l'on devait à un talent de
 l'époque. Dans la scène du jardin, elle devint sublime. Pendant le
 quatrième acte, où elle ne paraissait pas, j'allai acheter un bouquet
@@ -4277,8 +4242,8 @@ sentiments.--Si j'écrivais un roman, jamais je ne pourrais faire
 accepter l'histoire d'un cœur épris de deux amours simultanés. Sylvie
 m'échappait par ma faute; mais la revoir un jour avait suffi pour
 relever mon âme: je la plaçais désormais comme une statue souriante
-dans le temple de la Sagesse Son regard m'avait arrêté au bord de
-l'abîme. Je repoussait avec plus de force encore l'idée d'aller me
+dans le temple de la Sagesse. Son regard m'avait arrêté au bord de
+l'abîme. Je repoussais avec plus de force encore l'idée d'aller me
 présenter à Aurélie pour lutter avec tant d'amoureux vulgaires qui
 brillaient un instant près d'elle et retombaient brisés.
 
@@ -4290,7 +4255,7 @@ germanique, que je n'en devais pas attendre un grand succès, mais
 aussi je ne demandais pas de réponse. Je comptais un peu sur le hasard
 et sur--l'_inconnu._ Des mois se passèrent. A travers mes courses et
 mes loisirs, j'avais entrepris de fixer dans une action poétique les
-amour, du peintre Colonna pour la belle Laura, que ses parents firent
+amours du peintre Colonna pour la belle Laura, que ses parents firent
 religieuse, et qu'il aima jusqu'à la mort. Quelque chose dans ce sujet
 se rapportait à mes préoccupations constantes. Le dernier vers du drame
 écrit, je ne songeai plus qu'à revenir en France.
@@ -4305,7 +4270,7 @@ raison pour moi, c'était de conquérir et de fixer mon idéal.
 Aurélie avait accepté le rôle principal dans le drame que je rapportais
 d'Allemagne. Je n'oublierai jamais le jour où elle me permit de lui
 lire la pièce. Les scènes d'amour étaient préparées à son intention. Je
-crois bien que je les dis avec âme, niais surtout avec enthousiasme.
+crois bien que je les dis avec âme, mais surtout avec enthousiasme.
 Dans la conversation qui suivit, je me révélai comme _l'inconnu_ des
 deux lettres. Elle me dit:
 
@@ -4341,7 +4306,7 @@ persuadai au régisseur d'aller donner des représentations à Senlis
 et à Dammartin. Il penchait d'abord pour Compiègne; mais Aurélie fut
 de mon avis. Le lendemain, pendant que l'on allait traiter avec les
 propriétaires des salles et les autorités, je louai des chevaux, et
-nous primes la route des étangs de Commelle pour aller déjeuner au
+nous prîmes la route des étangs de Commelle pour aller déjeuner au
 château de la reine Blanche. Aurélie, en amazone, avec ses cheveux
 blonds flottants, traversait la forêt comme une reine d'autrefois, et
 les paysans s'arrêtaient éblouis.--Madame de F... était la seule qu'ils
@@ -4364,7 +4329,7 @@ ressentis si longtemps, ces rêves, ces pleurs, ces désespoirs et ces
 tendresses ... ce n'était donc pas l'amour? Mais où donc est-il?
 
 Aurélie joua le soir à Senlis. Je crus m'apercevoir qu'elle avait un
-faible» pour le régisseur, le jeune premier ride. Cet homme était d'un
+faible pour le régisseur, le jeune premier ridé. Cet homme était d'un
 caractère excellent et lui avait rendu des services.
 
 Aurélie m'a dit un jour:
@@ -4489,7 +4454,7 @@ des mots hasardés, des terminaisons et des liaisons de fantaisie; mais
 elle porte un cachet d'ignorance qui révolte l'homme du monde, bien
 plus que ne fait le patois. Pourtant, ce langage a ses règles, ou du
 moins ses habitudes régulières, et il est fâcheux que des couplets
-tels que ceux de la célèbre romance: _Si fêtais hirondelle,_ soient
+tels que ceux de la célèbre romance: _Si j’étais hirondelle,_ soient
 abandonnés, pour deux ou trois consonnes singulièrement placées, au
 répertoire chantant des concierges et des cuisinières. Quoi de plus
 gracieux et de plus poétique pourtant!
@@ -4564,7 +4529,7 @@ pis! dit le tambour, j'en trouverai de plus gentilles!...»
 maintenant ce que va faire un capitaine:
 
  A Tours en Touraine,--Cherchant ses amours;--Il les a cherchées,--Il
- les a trouvées--Eu haut d'une tour.
+ les a trouvées--En haut d'une tour.
 
 Le père n'est pas un roi, c'est un simple chapelain qui répond à la
 demande en mariage:
@@ -4578,7 +4543,7 @@ La réplique du capitaine est superbe:
 Il fait si bien, en effet, qu'il enlève la jeune fille sur son cheval;
 et l'on va voir comme elle est bien traitée une fois en sa possession:
 
- A la première ville,--Son amant rhabille--Tout en satin blanc!--A la
+ A la première ville,--Son amant habille--Tout en satin blanc!--A la
  seconde ville,--Son amant l'habille --Tout d'or et d'argent.
 
  A la troisième ville,--Sou amant l'habille--Tout en diamants!--Elle
@@ -4641,7 +4606,7 @@ Saint-Nicolas, que nous allons citer en partie.
 
  Il était trois petits enfants--Qui s'en allaient glaner aux champs.
 
- S'en vont au soir chez un boucher.--ô Boucher, voudrais-tu nous
+ S'en vont au soir chez un boucher.--«Boucher, voudrais-tu nous
  loger?--Entrez, entrez, petits enfants,--Il y a de la place
  assurément.»
 
@@ -4649,7 +4614,7 @@ Saint-Nicolas, que nous allons citer en partie.
  coupés en petits morceaux,--Mis au saloir comme pourceaux.
 
  Saint Nicolas au bout d'sept ans,--Saint Nicolas vint dans ce
- champ.--Il s'en alla chez le boncher:--«Boucher, voudrais-tu me loger?»
+ champ.--Il s'en alla chez le boucher:--«Boucher, voudrais-tu me loger?»
 
  «Entrez, entrez, saint Nicolas,--Il y a d'la place, il n'en manque
  pas.»--Il n'était pas sitôt entré,--Qu'il a demandé à souper.
@@ -4712,12 +4677,12 @@ ces chansons; chaque province possédait une version différente. On
 a recueilli comme une légende du Bourbonnais, _la Jeune Fille de la
 Garde,_ qui commence ainsi:
 
-Au château de la Garde,--Il y a trois belles filles; --Il y eu a une
+Au château de la Garde,--Il y a trois belles filles; --Il y en a une
 plus belle que le jour.--Hâte-toi, capitaine,--Le duc va l'épouser.
 
 C'est celle que nous avons également citée dans _les Faux-Saulniers,_
 qui commence ainsi dans le Beauvoisis, où nous l'avons entendu chanter,
-dépouillée de tonte couleur chevaleresque et locale:
+dépouillée de toute couleur chevaleresque et locale:
 
  Dessous le rosier blanc--La belle se promène.
 
@@ -4741,7 +4706,7 @@ heureuse;
  Avec trois capitaines,--Vous passerez la nuit.» Mais le souper
  fini,--La belle tomba morte.--Elle tomba morte--Pour ne plus revenir!
 
-«Hélas! ma mie est mortel s'écrie le plus jeune cavalier; qu'en
+«Hélas! ma mie est morte! s'écrie le plus jeune cavalier; qu'en
 allons-nous faire?...» Et ils conviennent de la reporter au château de
 son père, sous le rosier blanc.
 
@@ -4870,7 +4835,7 @@ très-simple en paille et en soie, une robe encore plus simple d'une
 familles permettent aux jeunes demoiselles d'augmenter le pouvoir de
 leurs charmes.
 
-Malgré cette résistance obstinée des tètes allemandes, les différents
+Malgré cette résistance obstinée des têtes allemandes, les différents
 partis vivent dans la plus parfaite union; peut-être même ces nuances
 contribuent-elles à l'agrément de leurs réunions et fêtes assez
 fréquentes, connues en général sous le nom de _froehlichs._ On appelle
@@ -4910,16 +4875,16 @@ constitué. Indépendamment de ces avantages, et ils n'étaient pas à
 dédaigner, Christophorus possédait encore une métairie de trois cents
 acres, tout le vallon de l'Ohio dont nous avons fait une description,
 une grange bâtie en pierre, une maison ornée de jalousies peintes en
-vert, et pourvue d'un toit en bardeaux également peints en ronge, et, à
+vert, et pourvue d'un toit en bardeaux également peints en rouge, et, à
 ce qu'on disait encore, deux bas de laine bleue que lui avait laissés
 son père, et qui étaient entièrement remplis de bons dollars espagnols.
 Aussi, lorsque Toffel passait devant quelque ferme sur son cheval gris,
 en sifflant un air allemand, le cœur de plus d'une blondine se mettait
 à battre plus vite.
 
-Il arriva donc que Jemmy se trouva placée à côte de Toffel. Comment
+Il arriva donc que Jemmy se trouva placée à côté de Toffel. Comment
 cela se fit, c'est ce que la chronique ne dit pas bien clairement; mais
-ce qui paraît certain, c'est que la volonté de ce dernier ne tut pour
+ce qui paraît certain, c'est que la volonté de ce dernier ne fut pour
 rien dans ce hasard. Toffel, comme nous l'avons dit, était un grand
 garçon à larges épaules, et, comme les bancs du local n'étaient rien
 moins que commodes, il s'assit sur le tronc d'un hickory; Jemmy choisit
@@ -4959,13 +4924,13 @@ Plusieurs heures s'étaient déjà envolées depuis que la société s'était
 livrée au travail, quand le hasard voulut que les deux voisins
 tirassent à la fois chacun deux épis de grain rouge. Mais il faut
 savoir que, suivant un usage respectable établi aux États-Unis, deux
-épis rouges qui sont tirés et écosses en même temps par deux individus
+épis rouges qui sont tirés et écossés en même temps par deux individus
 qualifiés, comme Jemmy O'Dougherty et Jacques Toffel, confèrent au plus
 fort des deux le droit de donner et même au besoin de prendre un baiser
 à l'autre.
 
 Toffel était donc en possession d'un titre aussi valable qu'aucun autre
-au monde; mais peu s'en fallut qu'il ne le perdit, en négligeant d'en
+au monde; mais peu s'en fallut qu'il ne le perdît, en négligeant d'en
 user. En effet, déjà il avait laissé tomber sa tige, quand Jemmy, brave
 fille! s'avisa d'avoir des yeux pour lui.
 
@@ -4981,7 +4946,7 @@ la résistance de tout le corps féminin, qui forma autour de Jemmy un
 carré qui aurait défié tout un bataillon de freluquets de la ville.
 Cependant, Toffel n'était pas homme à se laisser arrêter par de vaines
 démonstrations; il s'avança vers les conjurées, saisit commodément
-chacune de ses adversaires après l'autre, eu jeta une demi-douzaine
+chacune de ses adversaires après l'autre, en jeta une demi-douzaine
 sur un tas d'épis à sa droite, une demi douzaine sur un autre tas à
 sa gauche, et se fraya ainsi la route jusqu'à Jemmy, qui, il faut le
 dire, lui résista bravement; mais la citadelle la plus forte finit par
@@ -5062,7 +5027,7 @@ Telle fut la réponse un peu dure de la malicieuse Irlandaise, qui, en
 rabaissant la marchandise qu'elle convoitait, n'avait d'autre but que
 de se l'assurer à meilleur marché.
 
-Mais songez bien à ee qu'était une telle réponse adressée par une
+Mais songez bien à ce qu'était une telle réponse adressée par une
 petite créature comme Jemmy à un homme comme Toffel, garçon de six
 pieds, possesseur de trois cents acres de terre et de deux bas bleus
 garnis.
@@ -5227,7 +5192,7 @@ tenue à côté de son mari, d'un aussi bon mari surtout que l'était
 incontestablement Toffel, notamment dans des temps si critiques, où
 les sauvages parcouraient encore en partisans tout l'État d'Ohio,
 et s'avançaient même jusqu'au fort Pitt, attendu que, précisément à
-celte époque, les États-Unis étaient engagés avec eux dans une guerre
+cette époque, les États-Unis étaient engagés avec eux dans une guerre
 sanglante. Sans doute, elle cria vaillamment, mais il était trop tard;
 probablement les Indiens en avaient déjà trop vu pour renoncer, en
 faveur de ses cris, à une si belle proie. L'un monta sur le cheval
@@ -5255,12 +5220,12 @@ bornée, n'avaient aucune idée du droit divin de leur souverain,
 c'est-à-dire qu'ils ne voulaient pas travailler pour lui, disant qu'il
 avait, comme eux, reçu du grand Esprit deux bras propres au travail.
 
-Nous bienveillants lecteurs comprendront qu'au milieu d'une réunion
+Nos bienveillants lecteurs comprendront qu'au milieu d'une réunion
 d'hommes si déraisonnables, mistress Toffel ne pouvait compter sur de
-grands avantages, maigre la place honorable qu'elle occupait. Du reste,
+grands avantages, malgre la place honorable qu'elle occupait. Du reste,
 elle vit bien que des pleurs et des jérémiades ne pouvaient qu'empirer
 sa position, et qu'il valait mieux l'accepter bravement et chercher à
-se rendre utile. Aussi, avec une mine on l'on ne pouvait méconnaître un
+se rendre utile. Aussi, avec une mine où l'on ne pouvait méconnaître un
 trait d'ironie, elle saisit, le lendemain matin, la marmite remplie de
 gibier, et se mit à préparer elle-même le repas des Indiens. Ceux-ci
 s'assirent bientôt à l'entour en croisant les jambes:
@@ -5283,7 +5248,7 @@ bonnet d'une femme en couches: le chef lui-même se montra dans une
 petite robe _à l'enfant,_ avec un spencer coquelicot par-dessus, et
 un capuchon du temps de Louis XV. A peine Jemmy avait-elle jeté les
 yeux sur ses maîtres métamorphosés, qu'elle fit signe aux squaws de
-la suivie dans la forêt, où se trouvaient beaucoup de plantes de lin
+la suivre dans la forêt, où se trouvaient beaucoup de plantes de lin
 sauvage. Elle en fit cueillir une certaine quantité, qu'elle fit
 rapporter au camp par ses compagnes. Elle obligea ensuite celles-ci à
 préparer le lin pour le filage, qu'elle leur enseigna, et, en peu de
@@ -5390,7 +5355,7 @@ elle courut un grand danger de se noyer dans le Sciota, et, en errant
 pendant plusieurs jours dans les solitudes qui séparent Colombus,
 capitale de l'État de l'Ohio, de New-Lancaster, d'être dévorée par les
 ours et les panthères; mais elle se tira heureusement des marais, des
-rivières et des lieux déserts. Pendant les cinq premiers jours, clic
+rivières et des lieux déserts. Pendant les cinq premiers jours, elle
 vécut de sa provision de gibier fumé; puis elle se regala de papaws,
 de châtaignes et de raisins sauvages, et, au bout de dix jours de
 peines et de fatigues inexprimables, elle trouva, pour la première
@@ -5402,7 +5367,7 @@ d'assez grands yeux, comme on peut le présumer, mais ils donnèrent ce
 qu'ils avaient. Des lors, notre bonne Jemmy n'eut plus qu'à suivre les
 bords de l'Ohio, et ne tarda pas à voir les charmantes hauteurs qui
 cachaient son heureux _chez elle_ sortir du bleu vaporeux qui les
-enveloppait. Elle double le pas; la voilà sur les premiers coteaux.
+enveloppait. Elle doubla le pas; la voilà sur les premiers coteaux.
 Pour la première fois, son cœur battit plus fort; un instant arrêtée
 an souvenir du grand cheval, elle reprit sa course et s'élança dans
 les sinuosités boisées du coteau. Voilà bien devant elle le magnifique
@@ -5483,7 +5448,7 @@ de la maison; j'espère que tout est en ordre ...
 Son œil jeta un regard scrutateur sur le pauvre Toffel, qui ne semblait
 nullement être à son aise.
 
---Mon cœur, ma femme, continua-t-il, aie seulement un peu de patience I
+--Mon cœur, ma femme, continua-t-il, aie seulement un peu de patience!
 
 --Je ne veux pas avoir de patience, répliqua-t-elle; pourquoi ne
 veux-tu pas entrer dans la maison?
@@ -5494,7 +5459,7 @@ deux mains.
 
 --Eh! by Jasus[3], et de par toutes les autorités! s'écria-t-elle
 étonnée d'une conduite si singulière, je serais tentée de croire que
-tout n'est point ici en règle et que tu n'es pas bien aise de nie voir!
+tout n'est point ici en règle et que tu n'es pas bien aise de me voir!
 
 --Moi, ne pas être bien aise de te voir! mon cœur, ma bien-aimée! Oui,
 oui, tu seras de nouveau ma femme! répondit le brave garçon.
@@ -5659,7 +5624,7 @@ profondeurs.
 
 V
 
-OÙ L'ON DÉMONTRE COMMENT LES DEUX ÉPIS BOUGES ÉTAIENT POURTANT UN
+OÙ L'ON DÉMONTRE COMMENT LES DEUX ÉPIS ROUGES ÉTAIENT POURTANT UN
 PRÉSAGE
 
 Ce fut vers l'année 1826 que Jemmy recommença son long voyage pour
@@ -5738,7 +5703,7 @@ Tomahawk ne savait s'il veillait ou non, et il en était de même du
 squire; mais la demande formelle que lui adressa Jemmy, de la marier,
 elle, Jemmy O'Dougherty, avec Tomahawk, le chef de la peuplade des
 Squaws, et dix dollars reluisants qu'elle joignit à cette demande,
-firent cesser tous le» doutes du juge de paix, et, prononçant sur eux
+firent cesser tous les doutes du juge de paix, et, prononçant sur eux
 la formule matrimoniale, il unit leurs mains. La chose était finie,
 le pauvre sauvage ne comprenait point encore ce que signifiait cette
 cérémonie; mais, quand Jemmy lui prit la main, et lui fit connaître
@@ -5768,7 +5733,7 @@ il était même dépourvu de haie, et les chevaux, ainsi que les porcs,
 y venaient dévorer les jeunes tiges longtemps avant qu'elles eussent
 seulement formé leurs épis. Les choses ne pouvaient pas rester en cet
 état, et il fallait donc que la sauvage moitié de mistress Tomahawk
-abattit encore quelques milliers d'arbres et qu'il fit des haies autour
+abattît encore quelques milliers d'arbres et qu'il fit des haies autour
 d'une demi-douzaine de champs.--Cette besogne faite, Tomahawk eut
 encore quelques semaines de repos. Cependant, de temps immémorial, on
 avait bien mal mené les choses quant aux peaux de renard, de cerf, de
@@ -5812,7 +5777,7 @@ au-dessous et tout près des sources du Miami, une grande habitation,
 construite en madriers, flanquée de granges et d'écuries, environnée
 de superbes champs de maïs et de prairies, sur lesquelles paissent
 de magnifiques vaches, des chevaux et des poulains, sans compter les
-vergers remplis d'arbres fruitiers. Autour de la maison, on voit,
+vergers remplis d'arbres fruitiers. Autour de la maison, on voit
 folâtrer une demi-douzaine de jeunes garçons et de jeunes filles
 d'un teint rouge clair, et vêtus comme s'ils sortaient du magasin de
 Stubls, à Philadelphie. Le dimanche, ils lisent la Bible ou sellent
@@ -5907,7 +5872,7 @@ nouvellement construit sur la jetée. Pour moi, j'allai prendre mon
 logement derrière le théâtre des Florentins. Ma journée se passa à
 parcourir la rue de Tolède, la place du Môle, à visiter le Musée des
 études; puis j'allai le soir voir le ballet à San-Carlo. J'y fis
-rencontre du marquis Gargallo, que j'avais connu à Paris et qni me
+rencontre du marquis Gargallo, que j'avais connu à Paris et qui me
 mena, après le spectacle, prendre le thé chez ses sœurs.
 
 Jamais je n'oublierai la délicieuse soirée qui suivit. La marquise
@@ -5923,7 +5888,7 @@ cette discussion philosophique, et je ne pus parvenir à retrouver mon
 domicile. A force d'errer dans la ville, je devais y être enfin le
 héros de quelque aventure. La rencontre que je fis cette nuit-là est
 le sujet de la lettre suivante, que j'adressai plus tard à celle dont
-j'avais cru fuir l'amour fatal eu m'éloignant de Paris:
+j'avais cru fuir l'amour fatal en m'éloignant de Paris:
 
 
 «Je suis dans une inquiétude extrême. Depuis quatre jours, je ne vous
@@ -5982,7 +5947,7 @@ de m'étourdir pour tout un soir, et de m'imaginer que cette femme,
 dont je comprenais à peine le langage, était vous-même, descendue à
 moi par enchantement. Pourquoi vous tairais-je toute cette aventure
 et la bizarre illusion que mon âme accepta sans peine, surtout après
-quelques verres de lacrima-cristi mousseux qni me furent versés au
+quelques verres de lacrima-cristi mousseux qui me furent versés au
 souper? La chambre où j'étais entré avait quelque chose de mystique par
 le hasard ou par le choix singulier des objets qu'elle renfermait. Une
 madone noire couverte d'oripeaux, et dont mon hôtesse était chargée
@@ -6016,7 +5981,7 @@ exactement votre souvenir.
 »Et elle parla tout à coup dans une langue que je n'avais pas
 encore entendue. C'étaient des syllabes sonores, gutturales, des
 gazouillements pleins de charme, une langue primitive sans doute; de
-l'hébreu, du syriaque, je rie sais. Elle sourit de mon étonnement,
+l'hébreu, du syriaque, je ne sais. Elle sourit de mon étonnement,
 et s'en alla à sa commode, d'où elle tira des ornements de fausses
 pierres, colliers, bracelets, couronne; s'étant parée ainsi, elle
 revint à table, puis resta sérieuse fort longtemps. La vieille, en
@@ -6039,7 +6004,7 @@ n'était aussi qu'un rêve, où seule vous avez régné!
 j'errai dans la ville déserte jusqu'au son des premières cloches; puis,
 sentant le matin, je pris par les petites rues derrière Chiaïa, et je
 me mis à gravir le Pausilippe au-dessus de la grotte. Arrivé tout en
-haut, je me promenais eu regardant la mer déjà bleue, la ville où l'on
+haut, je me promenais en regardant la mer déjà bleue, la ville où l'on
 n'entendait encore que les bruits du matin, et les lies de la baie,
 où le soleil commençait à dorer le haut des villas. Je n'étais pas
 attristé le moins du monde; je marchais à grands pas, je me roulais
@@ -6050,7 +6015,7 @@ ce n'était autre chose que la pensée cruelle que je n'étais pas aimé.
 J'avais vu comme le fantôme du bonheur, j'avais usé de tous les dons
 de Dieu, j'étais sous le plus beau ciel du monde, en présence de la
 nature la plus parfaite, du spectacle le plus immense qu'il soit donné
-aux hommes de voir, mais â quatre cents lieues de la seule femme qui
+aux hommes de voir, mais à quatre cents lieues de la seule femme qui
 existât pour moi, et qui ignorait jusqu'à mon existence. N'être pas
 aimé et n'avoir pas l'espoir de l'être jamais! C'est alors que je fus
 tenté d'aller demander compte à Dieu de ma singulière existence. Il
@@ -6139,7 +6104,7 @@ SOUVENIRS DE POMPÉI
 
 I
 
-Avant rétablissement du chemin de fer de Naples à Résina, une course
+Avant l'établissement du chemin de fer de Naples à Résina, une course
 à Pompéi était tout un voyage. Il fallait une journée pour visiter
 successivement Herculanum, le Vésuve,--et Pompéi, situé à deux milles
 plus loin; souvent même, on restait sur les lieux jusqu'au lendemain,
@@ -6178,7 +6143,7 @@ spectacles les plus curieux fut la cérémonie qui s'exécuta au coucher
 du soleil dans cet admirable petit temple d'Isis, qui, par sa parfaite
 conservation, est peut-être la plus intéressante de toutes ces ruines.
 
-Il ne fut pas difficile de retrouver les costumes nécessaires an culte
+Il ne fut pas difficile de retrouver les costumes nécessaires au culte
 de la bonne et mystérieuse déesse, grâce aux deux tableaux antiques
 du musée de Naples, qui représentent le service sacré du matin et
 le service du soir; mais la recherche et l'explication des scènes
@@ -6314,7 +6279,7 @@ clepsydre et le cadran solaire;--il y avait même des hommes qui, rien
 qu'à la longueur de leur ombre, qu'ils savaient estimer à vue d'œil,
 pouvaient dire l'heure exacte du jour ou du soir.--Cet usage de crier
 les déterminations du temps était également admis dans les temples.
-11 y avait à Rome des gens pieux qui remplissaient auprès de Jupiter
+il y avait à Rome des gens pieux qui remplissaient auprès de Jupiter
 Capitolin ce singulier office de lui dire les heures.--Mais cette
 coutume était principalement observée aux matines et aux vêpres de la
 grande Isis, et c'est de cela que dépendait l'ordonnance de la liturgie
@@ -6340,7 +6305,7 @@ places, dans les cours de justice et sur les marchés.--Mais ensuite,
 vers la huitième heure de la journée ou la quatrième de l'après-midi,
 toute activité avait cessé. De la vie publique et à ciel ouvert, on
 passait au repos domestique, aux bains et aux repas. Car la huitième
-heure était alors, ou le sait, le moment du dîner, non-seulement à
+heure était alors, on le sait, le moment du dîner, non-seulement à
 Rome, mais dans tout l'ancien monde.--De là vient qu'à ce moment tous
 les temples étaient fermés; plus tard, la mère Isis, dans un office
 solennel du soir, était une dernière fois glorifiée, adorée, et honorée
@@ -6367,7 +6332,7 @@ Toutefois, l'introduction de ces mystères ouvrit la porte à quelques
 déportements. --A la faveur des préparations et des épreuves, qui,
 souvent, duraient un grand nombre de jours et qu'aucun époux n'osait
 refuser à sa femme, aucun amant à sa maîtresse, dans la crainte du
-fouet d'Osiris on des vipères d'Isis, se donnaient dans les sanctuaires
+fouet d'Osiris ou des vipères d'Isis, se donnaient dans les sanctuaires
 des rendez-vous équivoques, recouverts par les voiles impénétrables
 de l'initiation.--Mais ce sont là des excès communs à tous les cultes
 dans leurs époques de décadence. Les mêmes accusations furent adressées
@@ -6421,7 +6386,7 @@ A la droite du prophète qui portait l'hydria (_hydriophoros_), se
 tenait une femme représentant, par les attributs et par le costume, la
 déesse Isis elle-même.--Isis devait toujours, en effet, partager les
 hommages rendus à Osiris.--Elle ne portait pas les cheveux ras comme le
-reste du clergé, mais, les avait, au contraire, longs et bouclés.
+reste du clergé, mais les avait, au contraire, longs et bouclés.
 
 Une chose également très-caractéristique pour la représentation
 d'Isis, c'est ce que la prêtresse tenait dans les mains.--De la
@@ -6454,7 +6419,7 @@ les cérémonies d'Isis et d'Osiris, par des modulations lamentables
 ou joyeuses, mettaient les assistants dans des dispositions d'esprit
 convenables; cette musique provenait d'une sorte de flûte dont on
 attribuait l'invention à Osiris.--Un autre personnage qui terminait la
-rangée des fidèles de l'autre dôté, et dont le costume s'accordait
+rangée des fidèles de l'autre côté, et dont le costume s'accordait
 parfaitement avec celui des prêtres d'Isis d'un ordre inférieur, avait
 la tête tondue, et portait le tablier autour des reins.--Mais il
 tenait dans la main un des plus énigmatiques symboles égyptiens, la
@@ -6500,7 +6465,7 @@ mon esprit s'était formées à l'aspect de tant de ruines inexpliquées
 ou muettes. --Peut-être ai-je dû au souvenir éclatant d'Alexandrie, de
 Thèbes et des Pyramides, l'impression presque religieuse que me causa
 une seconde fois la vue du temple d'Isis de Pompéi. J'avais laissé
-mes compagnons de voyage admirer dans tons ses détails la maison de
+mes compagnons de voyage admirer dans tous ses détails la maison de
 Diomède, et, me dérobant à l'attention des gardiens, je m'étais jeté
 au hasard dans les rues de la ville antique, évitant çà et là quelque
 invalide qui me demandait de loin où j'allais, et m'inquiétant peu de
@@ -6549,7 +6514,7 @@ les lampes, les coupes, les encensoirs, les burettes, les goupillons,
 les mitres et les crosses brillantes des prêtres, les sistres, les
 clairons et les cymbales, une Vénus dorée, un Bacchus, des Hermès, des
 sièges d'argent et d'ivoire, des idoles de basalte et des pavés de
-mosaïque ornés d'inscriptions et d'emblèmes, La plupart de ces objets,
+mosaïque ornés d'inscriptions et d'emblèmes. La plupart de ces objets,
 dont la matière et le travail précieux indiquent la richesse du temple,
 ont été découverts dans le lieu saint le plus retiré, situé derrière
 le sanctuaire, et où l'on arrive en passant sous cinq arcades. Là, une
@@ -6638,7 +6603,7 @@ nom de la déesse Isis.
 
 »Qu'il te souvienne, dit-elle à Lucius après lui avoir indiqué les
 moyens d'échapper à l'enchantement dont _il_ est victime, que tu dois
-me consacrer le reste de ta vie, et, dés que tu auras franchi le sombre
+me consacrer le reste de ta vie, et, dès que tu auras franchi le sombre
 bord, tu ne cesseras encore de m'adorer, soit dans les ténèbres de
 l'Achéron ou dans les Champs-Élysées; et si, par l'observation de mon
 culte et par une inviolable chasteté, tu mérites bien de moi, tu sauras
@@ -6834,7 +6799,7 @@ pour lui-même, et selon les desseins de Dieu.
 »Desroches était entré dans un régiment à quatorze ans, à l'époque
 où, la plupart des hommes s'étant fait tuer sur la frontière, notre
 armée républicaine se recrutait parmi les enfants. Faible de corps,
-mince comme une jeune fille, et paie, ses camarades souffraient de lui
+mince comme une jeune fille, et pâle, ses camarades souffraient de lui
 voir porter un fusil sous lequel ployait son épaule. Vous devez avoir
 entendu dire qu'on obtint du capitaine l'autorisation de le lui rogner
 de six pouces. Ainsi accommodée à ses forces, l'arme de l'enfant fit
@@ -6914,14 +6879,14 @@ plaisanteries, et plus près de se réjouir que de s'affliger de cette
 bonne fortune inattendue.
 
 »Alors, de retour à l'hôpital, il se rappela sa hideuse blessure, cet
-épouvantai! dont il avait souvent gémi en lui-même, et que l'habitude
+épouvantail dont il avait souvent gémi en lui-même, et que l'habitude
 et la convalescence lui avaient rendu depuis longtemps moins déplorable.
 
 »Il est certain que Desroches n'avait pu encore ni soulever l'appareil
 inutile de sa blessure, ni se regarder dans un miroir. De ce jour-là,
 cette idée le fit frémir plus que jamais. Cependant, il se hasarda
 à écarter un coin du taffetas protecteur, et il trouva dessous
-une cicatrice un peu rose encore, niais qui n'avait rien de trop
+une cicatrice un peu rose encore, mais qui n'avait rien de trop
 repoussant. En poursuivant cette observation, il reconnut que les
 différentes parties de son visage s'étaient recousues convenablement
 entre elles, et que l'œil demeurait fort limpide et fort sain. Il
@@ -7003,7 +6968,7 @@ lieutenant donnerait à ses camarades sa dernière soirée de garçon.
 »Le repas fut gai; tout le monde savourait sa part du bonheur et de
 la gaieté que Desroches ramenait avec lui. On lui parla de l'Egypte,
 de l'Italie, avec transport, en faisant des plaintes amères sur
-celte mauvaise fortune qui confinait tant de bons soldats dans des
+cette mauvaise fortune qui confinait tant de bons soldats dans des
 forteresses de frontière.
 
 --Oui, murmuraient quelques officiers, nous étouffons ici, la vie est
@@ -7108,7 +7073,7 @@ détails me sont encore présents, hélas! Je ne sais s'il songeait même à
 me résister; je m'élançai vers lui, j'enfonçai mon sabre dans ce noble
 cœur; la victime ouvrit horriblement les yeux, crispa ses mains avec
 effort, et tomba dans les bras des autres soldats... Je ne me rappelle
-pas ce qui suivît; je me retrouvai dans la première cour, tout mouillé
+pas ce qui suivit; je me retrouvai dans la première cour, tout mouillé
 de sang; les Prussiens, refoulés par la poterne, avaient été reconduits
 à coups de canon jusqu'à leurs campements.
 
@@ -7401,7 +7366,7 @@ dormir de la nuit, et tantôt il pleurait en silence, tantôt il dévorait
 de regards furieux le dormeur, qui souriait dans ses songes.
 
 »Ce qu'on appelle le pressentiment ressemble fort au poisson précurseur
-qui avertit les cétacés immenses et presque aveugles que là pointillé
+qui avertit les cétacés immenses et presque aveugles que là pointille
 une roche tranchante, ou qu'ici est un fond de sable. Nous marchons
 dans la vie si machinalement, que certains caractères, dont l'habitude
 est insouciante, iraient se heurter ou se briser sans avoir pu se
@@ -7516,7 +7481,7 @@ père, pieusement conservé.
 --Vous railler? Joue-t-on avec de pareilles horreurs?... Ici a été tué
 mon père, son noble sang a rougi ces dalles; ce sabre est peut-être le
 sien... Allons, prenez-en un autre et donnez-moi la revanche de cette
-partiel... Allons, ce n'est pas un duel, c'est le combat d'un Allemand
+partie!... Allons, ce n'est pas un duel, c'est le combat d'un Allemand
 contre un Français; en garde!
 
 --Mais vous êtes fou, cher Wilhelm! laissez donc ce sabre rouillé. Vous
@@ -7543,7 +7508,7 @@ désespoir.
 --Rends-moi ce sabre, malheureux, criait Desroches, rends-le-moi! Non,
 tu ne me frapperas pas, misérable fou!... rêveur cruel!...
 
---C'est cela, criait Wilhelm d'une voix étouffée, tuez aussi le dis
+--C'est cela, criait Wilhelm d'une voix étouffée, tuez aussi le fils
 dans la galerie!... Le fils est un Allemand ... un Allemand!
 
 »En ce moment, des pas retentirent et Desroches lâcha prise. Wilhelm
@@ -7575,7 +7540,7 @@ forcer.
 »Desroches me serra la main et me dit:
 
 --Émilie sait tout. Je ne la reverrai pas; mais je sais ce que j'ai à
-faire pour lui rendre su liberté.
+faire pour lui rendre sa liberté.
 
 --Que dites-vous! m'écriai-je, un suicide?
 
@@ -7632,7 +7597,7 @@ ANGÉLIQUE
 
 A M. L. D.
 
-Voyage à la recherche «l'un livre unique.--Francfort et
+Voyage à la recherche d'un livre unique.--Francfort et
 Paris.--L'abbé de Bucquoy.--Pilat à Vienne.--La bibliothèque
 Richelieu.--Personnalités.--La bibliothèque d'Alexandrie.
 
@@ -7731,7 +7696,7 @@ _large_ interprétation de la loi donnerait au pouvoir de moyens
 pour éteindre toute opposition. Le régime de la censure serait de
 beaucoup préférable. Sous l'ancien régime, avec l'approbation d'un
 censeur,--qu'il était permis de choisir,--on était sûr de pouvoir
-sans danger produire ses idées, et ta liberté dont on jouissait était
+sans danger produire ses idées, et la liberté dont on jouissait était
 extraordinaire quelquefois. J'ai lu des livres contresignés Louis et
 Phélippeaux qui seraient saisis aujourd'hui incontestablement.
 
@@ -7791,8 +7756,8 @@ la Bastille: il donne des détails sur la révolte des camisards, sur
 l'exil des protestants, sur cette célèbre ligue des faux-saulniers
 de Lorraine, dont Mandrin se servit plus tard pour lever des troupes
 régulières qui furent capables de lutter contre des corps d'armée et
-de prendre d'assaut des villes telles que Beau ne et Dijon!...--Je le
-sais, nie dit M. Pilon; mais le classement des livres, fait à diverses
+de prendre d'assaut des villes telles que Beaune et Dijon!...--Je le
+sais, me dit M. Pilon; mais le classement des livres, fait à diverses
 époques, est souvent fautif. On ne peut en réparer les erreurs qu'à
 mesure que le public fait la demande des ouvrages. Il n'y a ici que M.
 Ravenel qui puisse vous tirer d'embarras... Malheureusement, il n'est
@@ -7823,7 +7788,7 @@ trouverait dans tous les cabinets de lecture;--ce qui ne fait pas
 moins de tort à ces derniers qu'aux éditeurs et aux auteurs, dont il
 devient inutile dès lors d'acheter ou de louer les livres.
 
-On l'a dit encore avec raison, un établissement unique au inonde
+On l'a dit encore avec raison, un établissement unique au monde
 comme celui-là ne devrait pas être un chauffoir public, une
 salle d'asile,--dont les hôtes sont, en majorité, dangereux pour
 l'existence et la conservation des livres. Cette quantité de désœuvrés
@@ -7895,7 +7860,7 @@ _roman-feuilleton,_ fait tout déranger, et dérange tout le monde pour
 une idée biscornue qui lui passe par la tête.
 
 C'est ici qu'il faut admirer la patience d'un conservateur,--l'employé
-secondaire est souvent trop jeune encore pour s'être fait à celte
+secondaire est souvent trop jeune encore pour s'être fait à cette
 paternelle abnégation. Il vient parfois des gens grossiers qui se font
 une idée exagérée des droits que leur confrère cet avantage de faire
 partie du _public,_--et qui parlent à un bibliothécaire avec le ton
@@ -8941,15 +8906,15 @@ filles.--Delphine.
 
 C'est le jour des Morts que je vous écris;--pardon de ces idées
 mélancoliques. Arrivé à Senlis la veille, j'ai passé par les paysages
-les plus beaux et les plus tristes qu'on puisse voir dans celte saison.
-La teinte rougeàtre des chênes et des trembles sur le vert foncé des
+les plus beaux et les plus tristes qu'on puisse voir dans cette saison.
+La teinte rougeâtre des chênes et des trembles sur le vert foncé des
 gazons, les troncs blancs des bouleaux se détachant du milieu des
 bruyères et des broussailles,--et surtout la majestueuse longueur de
-celte route de Flandre, qui l'élève parfois de façon à vous faire
+cette route de Flandre, qui l'élève parfois de façon à vous faire
 admirer un vaste horizon de forêts brumeuses, tout cela m'avait porté
 à la rêverie. En arrivant à Senlis, j'ai vu la ville en fête. Les
 cloches,--dont Rousseau aimait tant le son lointain,--résonnaient de
-tous côtés; les jeunes filles se promenaient par compagnies dans, la
+tous côtés; les jeunes filles se promenaient par compagnies dans la
 ville, ou se tenaient devant les portes des maisons en souriant et
 caquetant. Je ne sais si je suis victime d'une illusion: je n'ai pu
 rencontrer encore une fille laide à Senlis; celles-là peut-être ne se
@@ -9005,7 +8970,7 @@ souvenir:
 
     Trois filles dedans un pré...
     Mon cœur vole (bis)!
-    Mon cœur vote à votre gré!
+    Mon cœur vole à votre gré!
 
 «Scélérats d'enfants! dit un brave paysan qui s'était arrêté près de
 moi à les écouter... Mais vous êtes trop gentilles!... Il faut danser à
@@ -9014,7 +8979,7 @@ présent.»
 Les petites filles se levèrent de l'escalier et dansèrent une danse
 singulière qui m'a rappelé celle des filles grecques dans les îles.
 
-Elles se mettent toutes,--comme on dit chez, nous,--_à la queue leleu;_
+Elles se mettent toutes,--comme on dit chez nous,--_à la queue leleu;_
 puis un jeune garçon prend les mains de la première et la conduit en
 reculant, pendant que les autres se tiennent les bras, que chacune
 saisit derrière sa compagne. Cela forme un serpent qui se meut d'abord
@@ -9054,7 +9019,7 @@ figurait un astre éteint.
 
 Elle chantait:
 
-    Anges! descendez promptement,.
+    Anges! descendez promptement,
     Au fond du purgatoire!...
 
 Et elle parlait de la gloire du Messie, qui allait visiter ces sombres
@@ -9100,11 +9065,11 @@ La demoiselle ajoute:
 
 «Le mauvais traitement que lui avait fait mon père, et le commandement
 qu'il lui avait enjoint de se tenir dans les bornes de son devoir, ne
-purent empêcher qu'il ne passât toute cette nuit-là avec moi parcelle
+purent empêcher qu'il ne passât toute cette nuit-là avec moi par cette
 invention: mon père lui ayant commandé de s'en aller en Beauvoisis,
 il monta à cheval, et au lieu de s'en aller vivement, il s'arrêta
 dans le bois de Guny jusqu'à ce qu'il fût nuit, et alors il s'en vint
-chez Tancar, à Coucy-la-Ville, et lorsqu'il eut soupe, il prit ses
+chez Tancar, à Coucy-la-Ville, et lorsqu'il eut soupé, il prit ses
 deux pistolets et s'en vint à Verneuil, grimper par le petit jardin,
 où je l'attendais avec assurance et sans peur, sachant qu'on croyait
 qu'il fût bien loin. Je le menai dans ma chambre; alors il me dit: «Il
@@ -9129,7 +9094,7 @@ la pierre, et de la remettre à la demoiselle. Le petit garçon fit bien
 son message, et, s'approchant d'Angélique de Longueval, lui dit: «J'ai
 quelque chose pour vous.»
 
-Elle eut un grand contentement do cette lettre. Il témoignait qu'il
+Elle eut un grand contentement de cette lettre. Il témoignait qu'il
 avait quitté de grands avantages en Allemagne pour venir la voir, et
 qu'il lui était impossible de vivre sans qu'elle lui donnât commodité
 de la voir.
@@ -9137,7 +9102,7 @@ de la voir.
 Ayant été menée par son frère au château de la Neuville, Angélique dit
 à un laquais qui était à sa mère et qui s'appelait _Court-Toujours:_
 «Oblige-moi d'aller trouver La Corbinière, lequel est revenu
-d'Allemagne, et lui porte cette lettre de ma pari bien secrètement.»
+d'Allemagne, et lui porte cette lettre de ma part bien secrètement.»
 
 
 
@@ -9151,7 +9116,7 @@ Avant de parler des grandes résolutions d'Angélique de Longueval,
 je demande la permission de placer encore un mot. Ensuite, je
 n'interromprai plus que rarement le récit. Puisqu'il nous est défendu
 de faire du _roman_ historique, nous sommes forcé de servir la sauce
-sur un autre plat que la poisson;--c'est-à-dire les descriptions
+sur un autre plat que le poisson;--c'est-à-dire les descriptions
 locales, le sentiment de l'époque, l'analyse des caractères,--en dehors
 du récit matériellement vrai.
 
@@ -9292,7 +9257,7 @@ pas une de mes maisons, car vous ne serez jamais le bienvenu.»
 Il s'en vint donc vitement faire seller un cheval qu'il avait, et monta
 à sa chambre pour y prendre ses hardes; il m'avait fait signe de monter
 à la chambre d'Haraucourt, où dans l'antichambre il y avait une porte
-fermée, où l'on pouvait néanmoins parler. Je m'y en allai vilement
+fermée, où l'on pouvait néanmoins parler. Je m'y en allai vitement
 et il me dit ces paroles: «C'est cette fois qu'il faut prendre
 résolution, ou bien vous ne me verrez jamais.»
 
@@ -9401,22 +9366,22 @@ paroles je m'en allai dans la cuisine, qui était près de la dépense,
 et, ayant découvert le feu pour voir clair, j'aperçus une grande pelle
 à feu, de fer, laquelle je pris, et puis lui dis:
 
-«Allons à la dépense,» et étant proche du coffre, nous mimes la main au
+«Allons à la dépense,» et étant proche du coffre, nous mîmes la main au
 couvercle, lequel ne _serrait tout près._ Alors je lui dis: «Mets un
 peu la pelle entre le couvercle et ce coffre.» Alors, haussant tous
-deux les bras, nous n'y fimes rien; mais la seconde fois, les deux
+deux les bras, nous n'y fîmes rien; mais la seconde fois, les deux
 ressorts de serrure se rompirent, et soudain je mis la main dedans.»
 
 *
 
 Elle trouva une pile de plats d'argent qu'elle donna à La Corbinière,
-et, comme elle voulait en prendre d'autres, il lui dit: «N'en lirez
+et, comme elle voulait en prendre d'autres, il lui dit: «N'en tirez
 plus dehors, car le sac de moquette est plein.»
 
 Elle en voulait prendre davantage, comme bassins, chandeliers,
 aiguières; mais il dit: «Cela est embarrassant.»
 
-Et il l'engagea à s'aller vôtir en homme avec un pourpoint et une
+Et il l'engagea à s'aller vêtir en homme avec un pourpoint et une
 casaque,--afin qu'ils ne fussent pas reconnus.
 
 Ils allèrent droit à Compiègne, où le cheval d'Angélique de Longueval
@@ -9474,14 +9439,14 @@ moi-même,_ puisque c'est ma femme.»
 Angélique resta trois jours au lit, puis ils se remirent dans la barque
 du Rhône, et purent atteindre Avignon, où Angélique se fit traiter pour
 sa blessure, et ayant pris une nouvelle barque lorsqu'elle se sentit
-mieux, ils arrivèrent enfin à Toulon le jour de Pâques..
+mieux, ils arrivèrent enfin à Toulon le jour de Pâques.
 
 *
 
 Une tempête les accueillit en sortant du port pour aller à Gênes; ils
 s'arrêtèrent dans un havre, au château dit de _Saint-Soupir,_ dont
 la dame, les voyant sauvés, fit chanter le _Salve regina._ Puis elle
-leur fît faire collation à la mode du pays, avec olives et câpres,--et
+leur fit faire collation à la mode du pays, avec olives et câpres,--et
 commanda que l'on donnât à leur valet des artichauts.
 
 «Voyez, dit Angélique, ce que c'est _de l'amour;_--encore que nous
@@ -9504,7 +9469,7 @@ connaissez-vous? Sortez d'ici, car autrement je vous tuerai.»
 
 Incontinent, M. Audiffret nous vint voir, lequel lui conseilla de nous
 en aller le plus promptement qu'il se pourrait, parce que ce Génois,
-très-assurément, lui ferait Caire du déplaisir.
+très-assurément, lui ferait faire du déplaisir.
 
 *
 
@@ -9642,7 +9607,7 @@ Réflexions.--Souvenirs de la Ligne.--Les Sylvanectes et les Francs. La
 Ligue.
 
 
-J'ai tu, en me promenant, sur une affiche bleue une représentation
+J'ai lu, en me promenant, sur une affiche bleue une représentation
 de _Charles VII_ annoncée,--par Beauvallet et mademoiselle Rimblot.
 Le spectacle était bien choisi. Dans ce pays-ci on aime le souvenir
 des princes du Moyen Age et de la Renaissance,--qui ont créé les
@@ -9689,7 +9654,7 @@ défricher les grandes forêts ou assainir les pays de marécages. Telles
 étaient alors les contrées situées au nord de Paris. Issus généralement
 de la race caucasienne, ces hommes vivaient sur un pied d'égalité,
 d'après les mœurs patriarcales. Plus tard, on créa des fiefs, quand
-il fallut défendre le pays contrôles invasions du Nord. Toutefois,
+il fallut défendre le pays contre les invasions du Nord. Toutefois,
 les cultivateurs conservaient libres les terres qui leur avaient été
 concédées et qu'on appelait terres de franc-alleu.
 
@@ -9700,7 +9665,7 @@ plus indépendante de sa nature, se tournait vers Mayenne, d'Épernon,
 le cardinal de Lorraine et les Parisiens. On retrouve encore dans
 certains coins, surtout à Montépilloy, des amas de cadavres, résultat
 des massacres ou des combats de cette époque dont le principal fut la
-bataille do Senlis.
+bataille de Senlis.
 
 Et même ce grand comte Longueval de Bucquoy,--qui a fait les guerres de
 Bohème, aurait-il gagné l'illustration qui causa bien des peines à son
@@ -9711,7 +9676,7 @@ pays de Flandre, il obtint cependant un traité d'armistice de dix ans
 en faveur de ces provinces, que Louis XIV dévasta plus tard.
 
 Étonnez-vous maintenant des persécutions qu'eut à subir l'abbé de
-Bucquoy,--sous le ministère de Pontchartrian.
+Bucquoy,--sous le ministère de Pontchartrain.
 
 Quant à Angélique de Longueval, c'est l'opposition même en cette
 hardie. Cependant elle aime son père,--et ne l'avait abandonné qu'à
@@ -9745,11 +9710,11 @@ de vivre sans lui.»
 
 Au dernier moment, pendant que le lieutenant-colonel se réjouissait
 déjà du succès de cette ruse, qui lui livrait une femme isolée de son
-mari,--Angélique se décida à suivre La Corbinière à Inspruck. »Ainsi,
+mari,--Angélique se décida à suivre La Corbinière à Inspruck. «Ainsi,
 dit-elle, l'amour nous ruina en Italie aussi bien qu'en France,
 quoiqu'en _celle_ d'Italie je n'y avais point de coulpe (faute).»
 
-Les voilà partis de Vérone avec un nommé Boyer, auquel ta Corbinière
+Les voilà partis de Vérone avec un nommé Boyer, auquel La Corbinière
 avait promis de faire sa dépense jusqu'en Allemagne, parce qu'il
 n'avait point d'argent. (Ici, La Corbinière se relève un peu.) A
 vingt-cinq milles de Vérone, à un lieu où, par le lac, on va à la
@@ -9790,12 +9755,12 @@ capitaine de son régiment.
 *
 
 Le malheur ne se lassait pas de frapper les nouveaux époux. La
-Corbinière prit la fièvre, et il fallut le soigner.--11 y a de bonnes
+Corbinière prit la fièvre, et il fallut le soigner.--I1 y a de bonnes
 gens partout: Angélique ne se plaint que d'avoir été promenée, «tantôt
 à un lieu, tantôt à un autre,» par le malheur de la guerre,--à la façon
 des Égyptiennes,--ce qui ne pouvait lui plaire, encore qu'elle eut plus
 de sujets de se contenter que pas une femme, puis-qu'elle était la
-seule qui mangeât à la table du colonel avec seulement sa sœur.--a Et
+seule qui mangeât à la table du colonel avec seulement sa sœur.--Et
 le colonel encore montrait trop de bonté à La Corbinière,--en ce qu'il
 lui donnait les meilleurs morceaux de la table ... à cause qu'il le
 voyait malade.»
@@ -9939,7 +9904,7 @@ Le célestin, son cousin, lui écrivit de revenir. Mais La Corbinière
 n'en voulait pas entendre parler, craignant d'être pris et exécuté s'il
 rentrait en France. Il n'y faisait pas bon pour lui non plus;--car la
 faute d'Angélique fut cause que M. d'Haraucourt chassa des faubourgs
-dé Clermont-sur-Oise sa mère et ses frères, «qui vivaient de leur
+de Clermont-sur-Oise sa mère et ses frères, «qui vivaient de leur
 boutique, étant charcutiers.»
 
 Madame d'Haraucourt, enfin, étant morte en décembre 1636, à la
@@ -10012,7 +9977,7 @@ coing cuit, et depuis elle fut grandement affectionné.»
 
 Rien ne prouve que le frère Goussencourt ait donné une chemise
 à sa cousine.--Angélique n'était pas en odeur de sainteté dans
-sa famille»--et cela paraît en ce fait qu'elle n'a pas même été
+sa famille,--et cela paraît en ce fait qu'elle n'a pas même été
 nommée dans la généalogie de sa famille, qui énonce les noms de
 Jacques-Annibal de Longueval, gouverneur de Clermont-en-Beauvoisis,
 et de Suzanne d'Arquenvilliers, dame de Saint-Rimault. Ils ont laissé
@@ -10047,7 +10012,7 @@ cette belle Angélique de Longueval, et je voulais voir le château d'où
 elle a été enlevée par La Corbinière,--en habits d'homme, sur un cheval.
 
 --Es-tu sûr, du moins, que ce soit là le Longueval véritable, car
-il y â des Longueval et des Longueville partout ... de même que des
+il y a des Longueval et des Longueville partout ... de même que des
 Bucquoy...
 
 --Je n'en suis pas convaincu quant à ces derniers; mais lis seulement
@@ -10248,7 +10213,7 @@ Rousseau....
 
 *
 
-Accomplissons le pèlerinage» que nous nous sommes promis de faire, non
+Accomplissons le pèlerinage que nous nous sommes promis de faire, non
 pas près de ses cendres, qui reposent au Panthéon,--mais près de son
 tombeau, situé à Ermenonville, dans l'île dite des Peupliers.
 
@@ -10257,7 +10222,7 @@ caserne aux cuirassiers; le château de Henri IV, adossé aux vieilles
 fortifications de la ville; les cloîtres byzantins de Charles le Gros
 et de ses successeurs, n'ont rien qui doive nous arrêter... C'est
 encore le moment de parcourir les bois, malgré la brume obstinée du
-malin.
+matin.
 
 *
 
@@ -10336,8 +10301,8 @@ des notes que j'ai prises dans la bibliographie Michaud.
 Après la biographie de Charles Bonaventure, comte de Bucquoy,
 généralissime et membre de l'ordre de la Toison-d'Or, célèbre par ses
 guerres en France, en Bohême et en Hongrie, et dont le petit-fils,
-Charles, fut créé prince de l'Empire,--on trouve l'article sur _Y
-abbé de Bucquoy,--_indiqué comme _étant de la même famille_ que le
+Charles, fut créé prince de l'Empire,--on trouve l'article sur
+_L'abbé de Bucquoy,--_indiqué comme _étant de la même famille_ que le
 précédent. Sa vie politique commença par cinq années de services
 militaires. Échappé comme par miracle à un grand danger, il fit vœu de
 quitter le monde et se retira à la Trappe. L'abbé de Rancé, sur lequel
@@ -10394,7 +10359,7 @@ depuis longtemps.--C'est un homme qui, sans être lettré, comprend le
 respect que l'on doit aux antiquités. Il nous fit voir dans une des
 salles _un moine_ qu'il avait découvert dans les ruines. A voir ce
 squelette couché dans une auge de pierre, j'imaginai que ce n'était
-pas un moine, mais un guerrier celte ou frank couché selon l'usage,
+pas un moine, mais un guerrier cette ou frank couché selon l'usage,
 --avec le visage tourné vers l'Orient, dans cette localité, où les
 noms d'Erman ou d'Armen[2] sont communs dans le voisinage, sans parler
 même d'Ermenonville, située près de là,--et qu'on appelle dans le pays
@@ -10454,7 +10419,7 @@ pour sortir, nous remarquâmes au-dessus de la porte des armoiries qui
 devaient indiquer l'époque des dernières ornementations.
 
 Il nous fut difficile de distinguer les détails de l'écusson écartelé,
-qui avait été repeint postérieurement en bleu et en blanc. Au I et au
+qui avait été repeint postérieurement en bleu et en blanc. Au 1 et au
 4, c'étaient d'abord des oiseaux que le fils du garde appelait des
 cygnes,--disposés par 2 et 1; mais ce n'étaient pas des cygnes.
 
@@ -10539,7 +10504,7 @@ qui était un sceptique, a prétendu que, pour cette scène de
 fantasmagorie, on fit venir de Paris l'acteur Fleury, qui avait joué
 précédemment aux Français le rôle de Frédéric II, et qui aurait ainsi
 fait illusion au roi de Prusse, lequel, depuis, se retira, comme on
-sait, de le confédération des rois ligués contre la France.
+sait, de la confédération des rois ligués contre la France.
 
 Les souvenirs des lieux où je suis m'oppressent moi-même, de sorte que
 je vous envoie tout cela au hasard, mais d'après des données sûres.
@@ -10712,7 +10677,7 @@ chemin aux laveuses qui travaillent devant le château.
 Ève,--_vous passerez par _Othis,_ et en deux heures de marche vous
 gagnerez Dammartin.
 
-Ces jeunes filles fallacieuses nous firent faire une roule bien
+Ces jeunes filles fallacieuses nous firent faire une route bien
 étrange;--il faut ajouter qu'il pleuvait.
 
 *
@@ -10765,7 +10730,7 @@ lui dit:
     Battez la générale
     Jusqu'au point du jour!
 
-Quand Sylvain,--homme taciturne--se met à chanter, ou n'en est pas
+Quand Sylvain,--homme taciturne--se met à chanter, on n'en est pas
 quitte facilement.--Il m'a chanté je ne sais quelle chanson des _Moines
 rouges_ qui habitaient primitivement Châalis.--Quels moines! C'étaient
 des Templiers!--Le roi et le pape se sont entendus pour les brûler.
@@ -10801,7 +10766,7 @@ beaucoup d'éducation, se préoccupe pourtant de _parfaire_ ce qu'il n'a
 reçu qu'_imparfait_ du peu de leçons qui lui ont été données.
 
 Il a des idées sur tout.--Il est capable de composer une montre ... ou
-une boussole.--Ce qui le gêné dans la montre, c'est la _chaîne,_ qui ne
+une boussole.--Ce qui le gêne dans la montre, c'est la _chaîne,_ qui ne
 peut se prolonger assez... Ce qui le gêne dans la boussole, c'est que
 cela fait seulement reconnaître que l'aimant polaire du globe attire
 forcément les aiguilles--mais que sur le reste,--sur la cause et sur
@@ -10964,7 +10929,7 @@ de dix lieues qui s'étend autour du vieux château, si redoutable
 autrefois, et dominant toute la contrée. Les hautes tours sont
 démolies, mais l'emplacement se dessine encore sur ce point élevé,
 où l'on a planté des allées de tilleuls servant de promenade, au
-point même où se trouvaient les entrées et les cours. Des char milles
+point même où se trouvaient les entrées et les cours. Des charmilles
 d'épine-vinette et de belladone empêchent toute chute dans l'abime que
 forment encore les fossés.--Un tir a été établi pour les archers dans
 un des fossés qui se rapprochent de la ville. Sylvain est retourné dans
@@ -10979,7 +10944,7 @@ On sait que c'est après la bataille de Soissons, gagnée par Clovis, que
 ce chef des Francs subit l'humiliation de ne pouvoir garder un vase
 d'or, produit du pillage de Reims. Peut-être songeait-il déjà à faire
 sa paix avec l'Église, en lui rendant un objet saint et précieux. Ce
-fut alors qu'un do ses guerriers voulut que ce vase entrât dans le
+fut alors qu'un de ses guerriers voulut que ce vase entrât dans le
 partage, car l'égalité était le principe fondamental de ces tribus
 franques, originaires d'Asie.--Le vase d'or fut brisé, et plus tard la
 tête du Franc égalitaire eut le même sort, sous la _francisque_ de son
@@ -11010,7 +10975,7 @@ de vastes caveaux déblayés depuis peu, où l'on a retrouvé la tombe de
 Louis le Débonnaire,--formée d'une vaste cuve de pierre qui m'a rappelé
 les tombeaux égyptiens.
 
-Près de ces caveaux, composés de cellules souterrains avec des niches
+Près de ces caveaux, composés de cellules souterraines avec des niches
 çà et là comme dans les tombeaux romains, on voit la prison même où
 cet empereur fut retenu par ses enfants, l'enfoncement où il dormait
 sur une natte et autres détails parfaitement conservés, parce que la
@@ -11040,7 +11005,7 @@ Une verrerie est établie sur la hauteur.
 
 Il n'était plus possible de ne pas retrouver Soissons. J'y suis
 retourné pour continuer mes recherches, en visitant la bibliothèque et
-les archives.--A la bibliothèque, je n'ai rien trouvé que l'on ne prit
+les archives.--A la bibliothèque, je n'ai rien trouvé que l'on ne pût
 avoir à Paris. Les archives sont à la sous-préfecture et doivent être
 curieuses, à cause de l'antiquité de la ville. Le secrétaire m'a dit:
 «Monsieur, nos archives sont là-haut,--dans les greniers; mais elles ne
@@ -11076,7 +11041,7 @@ le _château-chef_ de son père, qui paraît en avoir eu autant que son
 aïeul, le grand-comté de Bucquoy, a pu en conquérir dans les guerres
 de Bohême.--Les tours sont rasées, comme à Dammartin. Cependant les
 souterrains existent encore. L'emplacement, qui domine le village,
-situé dans une gorge allongée, a été couvert, de constructions depuis
+situé dans une gorge allongée, a été couvert de constructions depuis
 sept ou huit ans, époque où les ruines ont été vendues. Empreint
 suffisamment de ces souvenirs de localité qui peuvent donner de
 l'attrait à une composition romanesque,--et qui ne sont pas inutiles
@@ -11137,7 +11102,7 @@ marges coupées jusqu'au texte, qui cependant reste lisible.
 Le livre a tous les titres cités déjà qui se trouvent énoncés dans
 Brunet, dans Quérard et dans la Biographie de Michaud. En regard
 du titre est une gravure représentant la Bastille, avec ce titre
-au-dessus: _l'Enfer des vivants,_ et cette citation; _Facilis descendus
+au-dessus: _l'Enfer des vivants,_ et cette citation: _Facilis descendus
 Averni._
 
 <tb>
@@ -11154,13 +11119,13 @@ l'ouvrage in-12 dont j'ai fait présent à la Bibliothèque impériale.
  restaurations...» On voit sa tombe devant le maître-autel.
 
  «Ici arrivent les Médicis: Hippolyte d'Est, cardinal de Ferrare,
- 1554;--Aloys d'Est, 1586.
+ 1554;--Aloys d'Est, 1586.»
 
- »««Ensuite: Louis, cardinal de Guise, 1601; Charles-Louis de Lorraine,
+ «Ensuite: Louis, cardinal de Guise, 1601; Charles-Louis de Lorraine,
  1630.
 
  Il faut remarquer que les d'Est n'ont qu'un alérion au 2 et au 3, et
- que j'en ai vu trois au I et au 4 dans l'écusson écartelé.
+ que j'en ai vu trois au 1 et au 4 dans l'écusson écartelé.
 
  «Charles II, cardinal de Bourbon (depuis Charles X,--l'ancien),
  lieutenant général de l'Ile de France depuis 1551, eut un fils appelé
@@ -11251,7 +11216,7 @@ nécessairement le ton un peu chaud qu'ils avaient de naissance, ce qui
 lui avait valu le nom désagréable de _Rousseau,_ que ses connaissances
 substituaient au sien propre, comme plus aisé à prononcer et à retenir.
 Il avait ensuite des yeux bigles très-éveillés, quoique toujours à
-demi fermés sons leurs épais sourcils, avec une bouche assez fendue,
+demi fermés sous leurs épais sourcils, avec une bouche assez fendue,
 comme les gens qui aiment à rire. Et cependant, bien que ses traits
 eussent un air de malice presque continuel, on ne l'entendait jamais
 rire à grands éclats, et, comme disent nos pères, rire d'un pied en
@@ -11339,7 +11304,7 @@ horreur qu'à tous les bons esprits, de même que ceux qui, sans autre
 effort d'imagination, pénètrent avec effraction dans quelque maison
 isolée, la pillent, et souvent en égorgent les maîtres. Mais, s'il
 eût connu ce trait d'un larron distingué qui, perçant une muraille
-pour s'introduire dans un logis, prit soin de figurer son ouverture en
+pour s'introduire dans un logis, prît soin de figurer son ouverture en
 un trèfle gothique, pour que, le lendemain, s'apercevant du vol, on
 vit bien qu'un homme de goût et d'art l'avait exécuté, certes, maître
 Godinot-Chevassut eût estimé celui-là beaucoup plus haut que Bertrand
@@ -11490,7 +11455,7 @@ Pour son maître, c'était une de ces figures du type bohémien, commun
 cent ans auparavant, déjà rare alors, et aujourd'hui noyé et perdu dans
 la laideur et l'insignifiance de nos têtes bourgeoises: un profil en
 fer de hache, front élevé mais étroit, nez très-long et très-bossu,
-et cependant ne sur-plombant pas comme les nez romains, niais fort
+et cependant ne sur-plombant pas comme les nez romains, mais fort
 retroussé au contraire, et dépassant à peine de sa pointe la bouche aux
 lèvres minces très-avancées, et le menton rentré; puis des yeux longs
 et fendus obliquement sous leurs sourcils, dessinés comme un V, et de
@@ -11624,7 +11589,7 @@ l'heure où l'ordre du prévôt de Paris nous chasse du pont Neuf jusqu'au
 soir. Or, s'il vous faut jamais quelque conseil, quelque sortilège,
 charme ou philtre à votre usage, dans le cas d'un danger, d'un amour
 ou d'une vengeance, je demeure là-bas; au bout du pont, dans le
-Château-Gaillard. Voyez-vous bien d'ici Cette tourelle à pignon?...
+Château-Gaillard. Voyez-vous bien d'ici cette tourelle à pignon?...
 
 --Un mot encore, s'il vous plaît, dit Eustache en tremblant: serai-je
 heureux en mariage?
@@ -11720,7 +11685,7 @@ cheval, et un peu plus qu'un chien ...
 --Voici mon neveu, dit Javotte à Eustache, en ouvrant sur lui ses
 grands yeux bleus avec un sourire de parfaite satisfaction; il a obtenu
 un congé pour venir à notre noce. Comme cela se trouve bien, n'est-ce
-pas? Il est arquebusier à cheval ... Oh I le beau corps! Si vous étiez
+pas? Il est arquebusier à cheval ... Oh! le beau corps! Si vous étiez
 vêtu comme cela, Eustache!... mais vous n'êtes pas assez grand, vous,
 ni assez fort ...
 
@@ -11946,7 +11911,7 @@ sa porte, dont il tenait la clef de l'autre main. Mais une seconde
 vitre qui se cassa avec grand bruit, et les pas de sa femme qu'il
 entendit derrière les siens, lui rendirent toute sou énergie; il ouvrit
 précipitamment la porte massive, et se planta sur le seuil avec son
-épée une, comme l'archange à l'_huis du paradis terrien._
+épée nue, comme l'archange à l'_huis du paradis terrien._
 
 --Que veut donc ce coureur de nuit? ce méchant ivrogne à un sou le pot?
 ce casseur de plats fêlés?... cria-t-il d'un ton qui eût été tremblant
@@ -11968,7 +11933,7 @@ Mais, au contraire, le soldat s'avançait entre les piliers, ce qui
 émoussa un peu la fin de la réplique d'Eustache.
 
 --C'est bien parlé! dit-il à ce dernier: l'avis est honnête et mérite
-qu'on le paye..
+qu'on le paye.
 
 Le temps de compter deux, il était tout près et avait lâché sur le nez
 du jeune marchand drapier une chiquenaude à le lui rendre cramoisi.
@@ -11983,7 +11948,7 @@ s'en allait, et lui porta un coup de taillant qui eût fait honneur
 au bras du preux Roger, si l'épée eût été une _balisarde;_ mais elle
 ne coupait plus depuis les guerres de religion, et n'entama point le
 buffle du soldat; celui-ci lui saisit aussitôt les deux mains dans
-les siennes, dételle sorte que l'épée tomba d'abord, et qu'ensuite
+les siennes, de telle sorte que l'épée tomba d'abord, et qu'ensuite
 le patient se mit à crier si haut, qu'il ne le pouvait davantage,
 allongeant de furieux coups de pied sur les bottes molles de son
 _tourmenteur._
@@ -11994,7 +11959,7 @@ pour y mettre fin; et Eustache, tirant ses doigts bleuâtres de l'étau
 naturel qui les avait serrés, eut à les frotter longtemps pour leur
 faire perdre la figure carrée qu'ils y avaient prise.
 
---Je ne terrains pas, s'écria-t-il, et nous nous reverrons! Trouve-toi,
+--Je ne te crains pas, s'écria-t-il, et nous nous reverrons! Trouve-toi,
 si tu as seulement le cœur d'un chien, trouve-toi demain matin au
 Pré-aux-Clercs!... A six heures, bélître, et nous nous battrons à mort,
 coupe-jarret!
@@ -12032,7 +11997,7 @@ parapluie rouge, laissant son mari occupé, avec sa servante, à visiter
 une pièce de drap et à en marquer les défauts. Il faut bien dire qu'il
 tournait souvent les yeux vers la porte, et tremblait à chaque instant
 que son redoutable parent ne vînt lui reprocher sa couardise et son
-manque que de parole. Or, vers huit heures et demie, il aperçut de
+manque de parole. Or, vers huit heures et demie, il aperçut de
 loin l'uniforme de l'arquebusier poindre sous la galerie des piliers,
 encore baignée d'ombre, comme un reitre de Rembrandt, qui luit par
 trois paillettes, celle du morion, celle du haubert et celle du nez;
@@ -12072,9 +12037,9 @@ d'embrasser la querelle de qui que ce fût, et même d'apporter des
 Eustache, resté seul, se mit à songer, et demeura longtemps dans
 cet état de perplexité: son esprit _fourchait_ à trois résolutions
 principales. Tantôt il voulait donner avis au lieutenant civil
-de l'importunité du militaire et de ses menacés, et lui demander
+de l'importunité du militaire et de ses menaces, et lui demander
 l'autorisation de porter des armes pour sa défense; mais cela
-aboutissait toujours â un combat. Ou bien il se décidait à se
+aboutissait toujours à un combat. Ou bien il se décidait à se
 rendre sur le terrain, en avertissant les sergents, de façon qu'ils
 arrivassent au moment même où le duel commencerait; mais ils pouvaient
 arriver quand il serait fini. Enfin, il songeait aussi à s'en aller
@@ -12183,7 +12148,7 @@ boutons inutiles dont la mode surchargeait alors leurs vêtements.
 
 X
 
-DE PRÉ-AUX-CLERCS
+LE PRÉ-AUX-CLERCS
 
 Le lendemain matin, quatre hommes traversaient les vertes allées du
 Pré-aux-Clercs en cherchant un endroit convenable et suffisamment
@@ -12362,7 +12327,7 @@ aux pieds de maître Chevassut, et lui demanda pardon de son irrévérence
 avec les termes les plus suppliants et les plus piteuses protestations,
 jurant que c'était quelque mouvement convulsif imprévu, où sa volonté
 n'entrait pour rien, et dont il espérait miséricorde de lui comme
-du bon Dieu. Le vieillard le releva, plus étonné que colère; niais
+du bon Dieu. Le vieillard le releva, plus étonné que colère; mais
 à peine Eustache fut-il sur ses pieds, qu'il donna, du revers de sa
 main, sur l'autre joue, un pendant à l'autre soufflet, tel que les cinq
 doigts y imprimèrent un _bon creux_ où l'on aurait pu les mouler.
@@ -12465,7 +12430,7 @@ devant soi, les barres tombent, les serrures s'ouvrent, et toutes les
 personnes que l'on rencontre demeurent immobiles. Cette main ainsi
 préparée reçoit le nom de _main de gloire._»
 
---Quelle, belle invention! s'écria Eustache Bouteroue.
+--Quelle belle invention! s'écria Eustache Bouteroue.
 
 --Attendez donc; quoique vous ne m'ayez pas vendu votre main, elle
 m'appartient cependant, parce que vous ne l'avez point dégagée au jour
@@ -12488,7 +12453,7 @@ hart, et rien ne peut vous en distraire!
 Alors, le misérable Eustache se mit à crier si fort et à pleurer si
 chaudement, que c'était grande pitié.
 
---Eh la la! mon ami cher, lui lit doucement maître Gonin, pourquoi se
+--Eh la la! mon ami cher, lui dit doucement maître Gonin, pourquoi se
 bander ainsi contre la destinée?
 
 --Sainte-Dame! c'est aisé de parler, sanglota Eustache; mais quand la
@@ -12569,7 +12534,7 @@ mignard. Eustache, le voyant si léger et si _pimpant,_ n'eut point
 le cœur de lui avouer toute sa _coulpe,_ et se confia en ses propres
 prières pour en obtenir le pardon.
 
-Le prêtre lui donna l'absolution, et, pour passer Je temps, comme il
+Le prêtre lui donna l'absolution, et, pour passer le temps, comme il
 fallait qu'il demeurât jusqu'à deux heures auprès du condamné, lui
 présenta un livre intitulé _les Pleurs de l'âme pénitente, ou le Retour
 du pécheur vers son Dieu._ Eustache ouvrit le volume à l'endroit du
@@ -12583,7 +12548,7 @@ le confesseur tira de sa poche un jeu de cartes fort bien peint, et
 proposa à son pénitent quelques parties où il lui gagna un peu d'argent
 que Javotte lui avait fait passer pour qu'il pût se procurer quelques
 soulagements. Le pauvre homme ne songeait guère à son jeu, mais il est
-vrai aussi que la perte lut était peu sensible.
+vrai aussi que la perte lui était peu sensible.
 
 A deux heures, il sortit du Châtelet, _tremblant le grelot_ en disant
 les patenôtres du singe, et fut conduit sur la place des Augustins,
@@ -12622,7 +12587,7 @@ les chevilles; le pouls ne battait plus; il coupa une artère, le
 sang ne jaillit point, et le bras continuait cependant ces mouvements
 désordonnés.
 
-L'homme rouge ne s'étonnait pas, de peu; il se mit en devoir de
+L'homme rouge ne s'étonnait pas de peu; il se mit en devoir de
 remonter sur les épaules de son sujet, aux grandes huées des
 assistants; mais la main traita son visage bourgeonné avec la même
 irrévérence qu'elle avait montrée à l'égard de maître Chevassut, si
@@ -12637,7 +12602,7 @@ Château-Gaillard; puis, s'accrochant encore par ses doigts comme un
 crabe aux aspérités et aux fentes de la muraille, elle monta ainsi
 jusqu'à l'embrasure où le bohémien l'attendait.
 
-Belleforest s'arrête à celte conclusion singulière et termine en ces
+Belleforest s'arrête à cette conclusion singulière et termine en ces
 termes: «Cette aventure, annotée, commentée et illustrée, fit pendant
 longtemps l'entretien des belles compagnies, comme aussi du populaire,
 toujours avide des récits bizarres et surnaturels; mais c'est peut-être
@@ -12680,7 +12645,7 @@ la rue d'Enfer.
 Ce château, d'une triste renommée, fut démoli en partie, et les ruines
 devinrent une dépendance d'un couvent de chartreux, dans lequel mourut,
 en 1414, Jean de la Lune, neveu de l'antipape Benoît XIII. Jean de la
-Lune avait été soupçonne d'avoir des relations avec un certain diable,
+Lune avait été soupçonné d'avoir des relations avec un certain diable,
 qui peut-être était l'esprit familier de l'ancien château de Vauvert,
 chacun de ces édifices féodaux ayant le sien, comme on le sait.
 
@@ -12706,7 +12671,7 @@ alla chercher du renfort.
 
 Mais on jugea encore que l'escouade n'était pas suffisante; aucun
 sergent ne se souciait de guider ses hommes dans ce repaire, où il
-semblait qu'on entendit le fracas de toute une armée.
+semblait qu'on entendît le fracas de toute une armée.
 
 Il arriva enfin, vers le matin, un corps de troupes suffisant: on
 pénétra dans la maison. On n'y trouva rien.
@@ -12714,7 +12679,7 @@ pénétra dans la maison. On n'y trouva rien.
 Le soleil dissipa les ombres.
 
 Toute la journée, l'on fit des recherches, puis l'on conjectura que le
-bruit venait des catacombes, situées, comme on tait, sous ce quartier.
+bruit venait des catacombes, situées, comme on sait, sous ce quartier.
 
 On s'apprêtait à y pénétrer; mais, pendant que la police prenait ses
 dispositions, le soir était venu de nouveau, et le bruit recommençait
@@ -12807,11 +12772,11 @@ lui, et s'écria:
 
 Un ricanement immense lui répondit.
 
-Cependant, il avait regagné l'escalier» et, montrant la bouteille à ses
+Cependant, il avait regagné l'escalier et, montrant la bouteille à ses
 camarades, il s'écria:
 
 --Voilà le farfadet!... Vous êtes bien capons (il prononça un autre mot
-plus vif encore) de ne pas oser descendre là dedans!
+plus vif encore) de ne pas oser descendre là-dedans!
 
 Son ironie était amère. Les archers se précipitèrent dans la cave, où
 l'on ne retrouva qu'une bouteille de bordeaux cassée. Le reste était en
@@ -12849,7 +12814,7 @@ La bouteille était verte comme ache, le vin était rouge comme sang.
 Neuf mois après, la couturière accouchait d'un petit monstre,
 entièrement vert, avec des cornes rouges sur le front.
 
-Et maintenant, allez, ô jeunes filles! allez-vous en danser à la
+Et maintenant, allez, ô jeunes filles! allez-vous-en danser à la
 Chartreuse ... sur l'emplacement du château de Vauvert!
 
 Cependant, l'enfant grandissait, sinon en vertu, du moins en
@@ -12859,7 +12824,7 @@ coccyx, mais qui peu à peu prenait les airs d'une véritable queue.
 
 On alla consulter les savants qui déclarèrent qu'il était impossible
 d'en opérer l'extirpation sans compromettre la vie de l'enfant. Ils
-ajoutèrent que c'était un cas assez, rare, mais dont on trouvait des
+ajoutèrent que c'était un cas assez rare, mais dont on trouvait des
 exemples cités dans Hérodote et dans Pline le Jeune. On ne prévoyait
 pas alors le système de Fourier.
 
@@ -12884,7 +12849,7 @@ Chaque fois que le sergent était ivre-mort, il voyait dans son sommeil
 la femme sanglante dont l'apparition l'avait épouvanté dans la cave
 après qu'il eut brisé la bouteille.
 
-Cette femme lui disait;
+Cette femme lui disait:
 
 --Pourquoi m'as-tu pressée sur ton cœur, et ensuite immolée ... moi qui
 t'aimais tant?
@@ -12935,12 +12900,12 @@ savez-vous donc pas, vous qui avez écrit ces vers:
 
     Ornons le vieux bahut de vieilles porcelaines
     Et faisons refleurir roses et marjolaines.
-    Qu'un rideau de lampa» embrasse encor ces lits
+    Qu'un rideau de lampa embrasse encor ces lits
     Où nos jeunes amours se sont ensevelis.
 
     Appendons au beau jour le miroir de Venise:
     Ne te semble-t-il pas y voir la Cydalise
-    Respirant une fleur qu'elle avait a la main
+    Respirant une fleur qu'elle avait à la main
     Et pressentant déjà le triste lendemain?
 
 Je vous envoie les trois âges du poëte; il n'y a plus en moi qu'un
@@ -13044,7 +13009,7 @@ _Siège de Lérida,_ de Lorentz, où l'armée française monte à l'assaut,
 précédée par des violons; ni les deux petits _Paysages_ de Rousseau,
 qu'on aura sans doute coupés d'avance; mais j'ai, de Lorentz,
 Une _maréchale_ poudrée, en uniforme Louis XV.--Quant à mon lit
-renaissance, à ma console Médicis, à mes buffets[3], à mon _Ribeira[4]_
+renaissance, à ma console Médicis, à mes buffets[3], à mon _Ribeira[4]_,
 à mes tapisseries des _Quatre Éléments,_ il y a longtemps que tout cela
 s'était dispersé.
 
@@ -13059,7 +13024,7 @@ Théophile,--du Théo, comme nous disions.
 Le Théophile a toujours passé pour gras; il n'a jamais cependant pris
 de ventre, et s'est conservé tel encore que nous le connaissions. Nos
 vêtements étriqués sont si absurdes, que l'Antinous, habillé d'un
-habit, semblerait énorme, comme lu Vénus, habillée d'une robe moderne:
+habit, semblerait énorme, comme la Vénus, habillée d'une robe moderne:
 l'un aurait l'air d'un fort de la halle endimanché, l'autre d'une
 marchande de poisson. L'armature solide du corps de notre ami (on peut
 le dire, puisqu'il voyage en Grèce aujourd'hui) lui fait souvent du
@@ -13083,7 +13048,7 @@ gaiement l'existence que nous menons encore quoique plus rassis.
 Le Théophile mourant nous faisait peine, et nous avions des idées
 nouvelles d'hygiène, que nous communiquâmes aux parents. Les parents
 comprirent, chose rare; mais ils aimaient leur fils. On renvoya le
-médecin, et nous dimes à Théo:
+médecin, et nous dîmes à Théo:
 
 --Lève-toi ... et viens boire.
 
@@ -13102,7 +13067,7 @@ de Beauvais; Ziégler a donné depuis des formes capricieuses à ce qui
 n'était alors que de simples cruches au ventre lourd. Lorsque nous nous
 communiquions nos inspirations poétiques, on faisait, par précaution,
 garnir la chambre de matelas, afin que le _paroxysme,_ dû quelquefois
-au Bacchus du cassis, ne compromit pas nos têtes avec les angles des
+au Bacchus du cassis, ne compromît pas nos têtes avec les angles des
 meubles.
 
 Théophile, sauvé, n'a plus bu que de l'eau rougie et un doigt de
@@ -13152,7 +13117,7 @@ où l'Ecclésiaste nouveau s'adresse à cette même reine du matin:
     La grenade qui s'ouvre au soleil d'Italie
     N'est pas si gaie encore, à mes yeux enchantés,
     Que ta lèvre entr'ouverte, ô ma belle folie!
-    Où je bois à longs flois le vin des voluptés.
+    Où je bois à longs flots le vin des voluptés.
 
 Nous reprendrons plus tard ce discours littéraire et philosophique.
 
@@ -13203,7 +13168,7 @@ intime; puis elle avait menacé de s'en retourner seule ou accompagnée;
 il lui avait répondu qu'elle pouvait bien agir à son gré. De là les
 soupirs, de là les larmes.
 
-Le jour ne devait pas tarder à poindre. La' grande sarabande
+Le jour ne devait pas tarder à poindre. La grande sarabande
 commençait. Trois ou quatre peintres d'histoire, peu danseurs de leur
 nature, avaient fait ouvrir le petit cabaret et chantaient à gorge
 déployée: Il _était un raboureur,_ ou bien: _C'était un calonnier qui
@@ -13257,10 +13222,10 @@ boulevards.
 [3] Heureusement, Alphonse Karr possède le buffet aux trois femmes et
 aux trois satyres, avec des ovales de peintures du temps sur les portes.
 
-[4] La _Mort de saint Joseph_ est à Londres, citez Gavarni.
+[4] La _Mort de saint Joseph_ est à Londres, chez Gavarni.
 
-[5] L'an d'eux s'appelait Van Dael, jeune homme charmant, mais dont le
-nom a porté malheur a notre château.
+[5] L'un d'eux s'appelait Van Dael, jeune homme charmant, mais dont le
+nom a porté malheur à notre château.
 
 [6] Vous connaissez le beau tableau de Gleyre, qui représente la scène.
 
@@ -13283,7 +13248,7 @@ n'avait qu'un avenir assez lointain. J'en avais écrit un acte lorsque
 j'apprends, tout d'un coup, que le traité fait entre le grand poëte
 et le grand compositeur se trouve rompu, je ne sais pourquoi.--Dumas
 partait pour son voyage de la Méditerranée, Meyerbeer avait déjà repris
-la route de l'Allemagne. La pauvre _Reine de Saba,_ abandonnée de tons,
+la route de l'Allemagne. La pauvre _Reine de Saba,_ abandonnée de tous,
 est devenue depuis un simple conte oriental qui fait partie des _Nuits
 du Rhamazan._
 
@@ -13489,7 +13454,7 @@ de la Harpe.--Pour le vulgaire des lecteurs, non! Pour ceux qui
 voudraient voir Rabelais et Montaigne mis en français moderne, pour
 ceux à qui le style de la Fontaine et de Molière paraît tant soit
 peu négligé, non! Mais pour ces intrépides amateurs de poésie et de
-langue française que n'effraye pas un mot vieilli, que n'égayé pas une
+langue française que n'effraye pas un mot vieilli, que n'égaye pas une
 expression triviale ou naïve, que ne démontent point les _oncques,_
 les _ainçois_ et les _ores,_ oui! pour les étrangers qui ont puisé
 tant de fois à cette source, oui!... Du reste, ils ne craignent point
@@ -13542,7 +13507,7 @@ c'étaient Ronsard et les poètes de son école; le mouvement imprimé par
 eux aux lettres s'est continué jusqu'à nos jours.
 
 Il serait trop long de nous occuper à faire l'histoire de la haute
-poésie en France, car elle était vraiment eu décadence au siècle
+poésie en France, car elle était vraiment en décadence au siècle
 de Ronsard; flétrie dans ses germes, morte sans avoir acquis le
 développement auquel elle semblait destinée; tout cela, parce qu'elle
 n'avait trouvé pour l'employer que des poètes de cour qui n'en tiraient
@@ -13556,9 +13521,9 @@ mais, chez nous, à quoi avaient abouti les hautes promesses des xiie et
 xiiie siècles? A je ne sais quelle poésie ridicule, où la contrainte
 métrique, ou des tours de force en fait de rime tenaient lieu de
 couleur et de poésie; à de fades et obscurs poëmes allégoriques, à des
-légendes lourdes et diffuses, à d'arides récits historiques rimes;
+légendes lourdes et diffuses, à d'arides récits historiques rimés;
 tout cela recouvert d'un langage poétique plus vieux de cent ans que
-la prose et le langage usuel, car les ri meurs d'alors imitaient si
+la prose et le langage usuel, car les rimeurs d'alors imitaient si
 servilement les poètes qui les avaient précédés, qu'ils en conservaient
 même la langue surannée. Aussi tout le monde s'était dégoûté de la
 poésie dans les genres sérieux, et l'on ne s'occupait plus qu'à
@@ -13585,7 +13550,7 @@ le troupeau des écrivains du second ordre se tournant inquiets à droite
 et à gauche et cherchant un guide: les uns fidèles à la mémoire des
 grands hommes qui ne sont plus, et laissant dans les rangs une place
 pour leur ombre; les autres tourmentés d'un vague désir d'innovation
-qui se produit eu essais ridicules; les plus sages faisant des théories
+qui se produit en essais ridicules; les plus sages faisant des théories
 et des traductions... Tout à coup un homme apparaît, à la voix forte,
 et dépassant la foule de la tête: celle-ci se sépare en deux partis, la
 lutte s'engage, et le géant finit par triompher, jusqu'à ce qu'un plus
@@ -13610,7 +13575,7 @@ fantaisie des hommes; et ont été formées d'un même jugement à une même
 fin: c'est pour signifier entre nous les conceptions et intelligences
 de l'esprit. Il est vrai que, par succession de temps, les unes, pour
 avoir été curieusement réglées, sont devenues plus riches que les
-autres; mais Cela ne se doit attribuer à la félicité desdites langues,
+autres; mais cela ne se doit attribuer à la félicité desdites langues,
 mais au seul artifice et industrie des hommes. A ce propos, je ne puis
 assez blâmer la sotte arrogance et témérité d'aucuns de notre nation,
 qui, n'étant rien moins que grecs ou latins, déprisent ou rejettent
@@ -13634,7 +13599,7 @@ notre langue qui commence encore à fleurir, sans fructifier; cela,
 certainement, non par le défaut de sa nature, aussi apte à engendrer
 que les autres, mais par la faute de ceux qui l'ont eue en garde et
 ne l'ont cultivée à suffisance. Que si les anciens Romains eussent
-été aussi négliges à la culture de leur langue, quand premièrement
+été aussi négligés à la culture de leur langue, quand premièrement
 elle commença à pulluler, pour certain en si peu de temps elle ne fût
 devenue si grande; mais eux, en guise de bons agriculteurs, l'ont
 premièrement transmuée d'un lieu sauvage dans un lieu domestiqué, puis,
@@ -13799,7 +13764,7 @@ convient avoir quelques gens savants et fidèles compagnons qui puissent
 connaître nos fautes et ne craignent pas de blesser notre papier
 avec leurs ongles. Encore te veux-je avertir de hanter quelquefois
 non-seulement les savants, mais aussi toutes sortes d'ouvriers et gens
-mécaniques, savoir leurs inventions, les noms dès matières et termes
+mécaniques, savoir leurs inventions, les noms des matières et termes
 usités en leurs arts et métiers pour tirer de là de belles comparaisons
 et description de toutes choses.»
 
@@ -13924,7 +13889,7 @@ de la littérature antique n'eussent pu être, dans les circonstances
 d'alors, très-favorables aux progrès de la nôtre et de notre langue
 aussi; mais l'excès a tout gâté: de la forme, on a passé au fond; on
 ne s'est pas contenté d'introduire le poëme antique, on a voulu qu'il
-dit l'histoire des anciens et non la nôtre; la tragédie, on a voulu
+dît l'histoire des anciens et non la nôtre; la tragédie, on a voulu
 qu'elle ne célébrât que les infortunes des illustres familles d'Œdipe
 et d'Agamemnon; on a amené la poésie à ne reconnaître et n'invoquer
 d'autres dieux que ceux de la mythologie; en un mot, cette expédition,
@@ -13995,7 +13960,7 @@ du temps. (_Pandore,_ par Guillaume de Tours.)
     Viens, viens à nous, viens ici en la guise
     Qu'en Hélicon, haute montagne sise
     Très-hautement les doctes sœurs enseignes
-    Là des pieds nus dansautes aux enseignes
+    Là des pieds nus dansantes aux enseignes
     De leur gaité, tout autour des autiers
     De ton parent Jupiter et au tiers
     Toi réjoui de douce mélodie
@@ -14070,8 +14035,8 @@ sont quelques-uns des conseils qu'il lui adresse:
     Corrigez-vous vous-même, afin que la justice
     De Dieu qui est plus grand vos fautes ne punisse.
     Je dis ce puissant Dieu, dont la force est partout,
-    Qui conduit l'univers de l'un a l'autre bout,
-    Et fait a tous humains ses justices égales,
+    Qui conduit l'univers de l'un à l'autre bout,
+    Et fait à tous humains ses justices égales,
     Autant aux laboureurs qu'aux personnes royales.
     Lequel nous supplions vous tenir en sa loi,
     Et vous aimer autant qu'il fit David son roi,
@@ -14132,7 +14097,7 @@ poésie:
     Tirer avec la ligne en tremblant emporté
     Le crédule poisson pris à l'haim appâté,
     Qu'un grand prince n'est aise ayant pris à la chasse;
-    Un cerf qu'en baletant tout un jour il pourchasse
+    Un cerf qu'en haletant tout un jour il pourchasse
     Heureux si vous eussiez d'un mutuel émoi
     Pris l'appât amoureux aussi bien comme moi ...
     Las! couché dessus l'herbe, en mes discours je pense
@@ -14155,7 +14120,7 @@ rudement, de fort bien comprendre ce patois _que jargonnoit Ronsard à
 la cour des Valois, et de ne le_ point trouver si éloigné qu'il croyait
 du _beau françois_ d'aujourd'hui. C'est qu'il n'est pas en littérature
 de plus étrange destinée que celle de Ronsard: idole d'un siècle
-éclairé; ils lustré de l'admiration d'hommes tels que les de Thou,
+éclairé; illustré de l'admiration d'hommes tels que les de Thou,
 les l'Hospital, les Pasquier, les Scaliger; proclamé plus tard par
 Montaigne l'égal des plus grands poètes anciens, traduit dans toutes
 les langues, entouré d'une considération telle, que le Tasse, dans un
@@ -14175,16 +14140,16 @@ Mais, pour Ronsard, il y a encore une postérité: et aujourd'hui surtout
 qu'on remet tout en question, et que les hautes renommées sont pesées,
 comme les âmes aux enfers, nues, dépouillées de toutes les préventions,
 favorables ou non, avec lesquelles elles s'étaient présentées à nous,
-qui sait si Malherbe se trouvera encore de poids à' représenter le père
+qui sait si Malherbe se trouvera encore de poids à représenter le père
 de la poésie classique? Ce ne serait point là le seul arrêt de Boileau
 qu'aurait cassé l'avenir.
 
-Nous n'exprimons ici qu'un vœu de justice et d'ordre, selon, nous,
+Nous n'exprimons ici qu'un vœu de justice et d'ordre, selon nous,
 et nous n'avons pas jugé l'école de Ronsard assez favorablement pour
 qu'on nous soupçonne de partialité. Si notre conviction est erronée,
 ce ne sera pas faute d'avoir examiné les pièces du procès, faute
 d'avoir feuilleté des livres oubliés depuis trois cents ans. Si tous
-les auteurs d'histoires littéraires avaient eu celte conscience, on
+les auteurs d'histoires littéraires avaient eu cette conscience, on
 n'aurait pas vu des erreurs grossières se perpétuer dans mille volumes
 différents, composés les uns sur les autres; on n'aurait pas vu des
 jugements définitifs se fonder sur d'aigres et partiales critiques
@@ -14254,7 +14219,7 @@ attaquée par Rabelais, bien avant l'apparition de Ronsard et de
 ses amis; au total, il s'en trouve peu chez eux qui ne fussent en
 usage déjà. Leur principale affaire était l'introduction des formes
 classiques, et, bien qu'ils aient aussi recommandé celle des mots, il
-ne paraît pas qu'ils s'en soient occupés beaucoup, et qu'ils nient
+ne paraît pas qu'ils s'en soient occupés beaucoup, et qu'ils aient
 même employé les premiers ces doubles mots qu'on a représentés comme si
 fréquents dans leur style.
 
@@ -14267,7 +14232,7 @@ avant lui, et qu'il a immensément perfectionné.
 
 Ceci nous conduit à la dernière époque du talent de Ronsard, et, ce me
 semble, à la plus brillante, bien que la moins célébrée. Ses _Discours_
-contiennent en germe l'épitre et la satire régulière, et, mieux que
+contiennent en germe l'épître et la satire régulière, et, mieux que
 tout cela, une perfection de style qui étonne plus qu'on ne peut dire.
 Mais aussi combien peu de poètes l'ont immédiatement suivi dans cette
 région supérieure! Régnier seulement s'y présente longtemps après,
@@ -14277,8 +14242,8 @@ hautement pour son maître.
 Dans les discours surtout se déploie cet alexandrin fort et bien rempli
 dont Corneille eut depuis le secret, et qui fait contraster son style
 avec celui de Racine d'une manière si remarquable: il est singulier
-qu'un étranger; M. Schlegel ait fait le premier cette observation:
-«Je regarde connue incontestable, dit-il, que le grand Corneille
+qu'un étranger, M. Schlegel ait fait le premier cette observation:
+«Je regarde comme incontestable, dit-il, que le grand Corneille
 appartienne encore à certains égards, pour la langue surtout, à cette
 ancienne école de Ronsard, ou du moins la rappelle souvent.» On se
 convaincra bien aisément de cette vérité en lisant les discours de
@@ -14286,7 +14251,7 @@ Ronsard, et surtout celui des _Misères du temps._
 
 Depuis peu d'années, quelques poètes, et Victor Hugo surtout,
 paraissent avoir étudié cette versification énergique et brillante de
-Ronsard, dégoûtes qu'ils étaient de l'autre: j'entends la versification
+Ronsard, dégoûtés qu'ils étaient de l'autre: j'entends la versification
 _racinienne,_ si belle à son commencement, et que depuis on a tant
 usée et aplatie à force de la limer et de la polir. Elle n'était point
 usée, an contraire, celle de Ronsard et de Corneille, mais rouillée
@@ -14321,7 +14286,7 @@ tiré toute sa gloire[13].
 
 On sentait bien, dès ce temps-là, combien cette réforme annoncée si
 pompeusement était mesquine et conçue d'après des vues étroites.
-Régnier surtout, Régnier, poëte d'une tout antre luire que Malherbe,
+Régnier surtout, Régnier, poëte d'une tout autre luire que Malherbe,
 et qui n'eut que le tort d'être trop modeste, et de se contenter
 d'exceller dans un genre à lui, sans se mettre à la tête d'aucune
 école, tance celle de Malherbe avec une sorte de mépris:
@@ -14344,9 +14309,9 @@ invectives contre Ronsard, il ne songeait pas même qu'il y eût à sortir
 du chemin qu'avaient frayé les poètes de la Pléiade, ni par un retour à
 la vieille littérature nationale, ni par la création d'une littérature
 nouvelle, fondée sur les moeurs et les besoins du temps, ce qui, dans
-ces deux cas, eût probablement amené à un même résultat. Tonte sa
+ces deux cas, eût probablement amené à un même résultat. Toute sa
 prétention, à lui, fut de purifier le fleuve qui coulait du limon que
-roulaient ses ondes, ee qu'il ne put faire sans lui enlever aussi en
+roulaient ses ondes, et qu'il ne put faire sans lui enlever aussi en
 partie l'or et les germes précieux qui s'y trouvaient mêlés: aussi
 voyez ce qu'a été la poésie après lui: je dis la poésie.
 
@@ -14376,7 +14341,7 @@ Le privilège date de 1548.
 
 [4] Auteurs du roman de la _Rose._
 
-[5]_ Sonne-moi ces sonnets:_ ceci est ira trait du mauvais goût
+[5]_ Sonne-moi ces sonnets:_ ceci est un trait du mauvais goût
 d'alors, auquel le jeune novateur n'a pu entièrement se soustraire.
 Nous trouvons plus haut: _Distille_ avec un _style._ Ronsard lui-même
 a cédé quelquefois à ce plaisir de jouer sur les mots: _Dorât_ qui
@@ -14390,7 +14355,7 @@ voies périlleuses_ (Jehan Bouchet). Il y avait encore le _Solitaire_
 etc.
 
 [7] Il s'agit là de Pierre de Ronsard, annoncé comme le Messie par ce
-nouveau saint Jean Du Bellay a-t-il voulu équivoquer sur le prénom de
+nouveau saint Jean. Du Bellay a-t-il voulu équivoquer sur le prénom de
 Ronsard avec cette figure de la _pierre_? Ce serait peut-être aller
 trop loin que de le supposer.
 
@@ -14406,14 +14371,14 @@ défunt. Que d'observations de ce genre il y aurait encore à faire!
 [10] Écoutons Paul Courier, à propos des inscriptions latines: «_caméra
 campotorum_ leur paraissait beaucoup plus beau que _la Chambre des
 comptes:_ cette manie dura, et même n'a point passé; des inscriptions
-qui nous disent en mots de Cicéron qu'ici est le Marché-Neuf on bien la
+qui nous disent en mots de Cicéron qu'ici est le Marché-Neuf ou bien la
 Place-aux-Veaux.»
 
 [11] Il est à espérer que la révolution de 93 aura donné lieu à la
 dernière explosion de l'imitation des anciens, et que nous en aurons
 fini cette fois avec les Léonidas, et les Brutus, et les Régulus, et
-les grandes odes pindariques, et les consuls, et les tribuns, et tonte
-la défroque de la république romaine ajustée an xixe siècle; c'est
+les grandes odes pindariques, et les consuls, et les tribuns, et toute
+la défroque de la république romaine ajustée au xixe siècle; c'est
 quelque chose déjà pour nous que d'avoir le coq gaulois en place de
 l'aigle classique.
 
@@ -14424,7 +14389,7 @@ Boccaige;_ Paris, G. Cavellat, 1550.
 Ronsard avait déjà publié séparément, l'année précédente, l'_Hymne
 de France,_ Paris, Vascosan, et _l'Hymne de la paix,_ G. Cavellat,
 1549. Ces trois pièces très-rares ne sont point indiquées sur le
-catalogue de la Bibliothèque royale, ce qui a fait commettre a tous les
+catalogue de la Bibliothèque royale, ce qui a fait commettre à tous les
 bibliographes une erreur de date touchant la publication des premiers
 écrits de Ronsard.
 
@@ -14441,10 +14406,10 @@ V
 EXPLICATIONS
 
 
-Vous le voyez, mon ami,--_en ce temps, je ronsardinisats,--_pour me
+Vous le voyez, mon ami,--_en ce temps, je ronsardinisais,--_pour me
 servir d'un mot de Malherbe. Considérez, toute fois, le paradoxe
 ingénieux qui fait le fond de ce travail: il s'agissait alors pour
-nous,' jeunes gens, de rehausser la vieille versification française,
+nous, jeunes gens, de rehausser la vieille versification française,
 affaiblie par les langueurs du xviiie siècle, troublée par les
 brutalités des novateurs trop ardents; mais il fallait aussi maintenir
 le droit antérieur de la littérature nationale dans ce qui se rapporte
@@ -14460,10 +14425,10 @@ Quant à moi-même, il est évident qu'alors je n'avais droit d'aspirer
 qu'aux prix du collège, dont ce morceau ambitieux me détournait sans
 profit.
 
-    Qui n'a pat l'esprit de son âge
+    Qui n'a pas l'esprit de son âge
     De son âge a tout le malheur!
 
-Je fus cependant si furieux de nia déconvenue, que j'écrivis une satire
+Je fus cependant si furieux de ma déconvenue, que j'écrivis une satire
 dialoguée contre l'Académie, qui parut chez Touquet. Ce n'était pas
 bon, et cependant Touquet m'avait dit, avec ses yeux fins sous ses
 besicles ombragées par sa casquette à large visière: «Jeune homme, vous
@@ -14536,7 +14501,7 @@ Je discutais dernièrement là-dessus avec S***, à propos des tentatives
 de Richard Wagner. Sans approuver le système musical actuel, qui fait
 du poëte un _parolier,_ S*** paraissait craindre que l'innovation de
 l'auteur de _Lohengrin,_ qui soumet entièrement la musique au rhythme
-poétique, ne la fit remonter à l'enfance de l'art. Mais n'arrive-t-il
+poétique, ne la fît remonter à l'enfance de l'art. Mais n'arrive-t-il
 pas tous les jours qu'un art quelconque se rajeunit en se retrempant
 à ses sources? S'il y a décadence, pourquoi le craindre? s'il y a
 progrès, où est le danger?
@@ -14573,9 +14538,9 @@ aussi notre poésie n'est-elle pas populaire comme celle des Allemands?
 C'est, je crois, qu'il faut distinguer toujours ces deux styles et
 ces deux genres--chevaleresque et gaulois, dans l'origine,--qui, en
 perdant leurs noms, ont conservé leur division générale. On parle en ce
-que moment d'une collection de chants nationaux recueillis et publiés
+moment d'une collection de chants nationaux recueillis et publiés
 à grands frais. Là, sans doute, nous pourrons étudier les rhythmes
-anciens conformes au génie primitif de de la langue, et peut-être
+anciens conformes au génie primitif de la langue, et peut-être
 en sortira-t-il quelque moyen d'assouplir et de varier ces coupes
 belles mais monotones que nous devons à la réforme classique. La rime
 riche est une grâce, sans douter, mais elle ramène trop souvent les
@@ -14685,7 +14650,7 @@ que dans le but de nous distraire, car nous pouvions simplement
 attendre dans une autre chambre. La _société,_ c'étaient les voleurs.
 
 Nous entrâmes dans une vaste salle garnie de bancs et de tables; cela
-ressemblait simplement à un cabaret de bas étage On nous fit voir près
+ressemblait simplement à un cabaret de bas étage. On nous fit voir près
 du poêle un homme en redingote verte qu'on nous dit être le célèbre
 Fossard, arrêté pour le vol des médailles de la Bibliothèque.
 
@@ -14758,7 +14723,7 @@ opprimées qui protestent chacun devant leur autel.
 
 J'étais arrivé fort tard à Sainte-Pélagie, et l'on ne pouvait me donner
 place à la pistole que le lendemain. Il me fallut donc coucher dans
-l'un dés dortoirs communs. C'était une vaste galerie qui contenait une
+l'un des dortoirs communs. C'était une vaste galerie qui contenait une
 quarantaine de lits. J'étais fatigué, ennuyé du bruit qui se faisait
 dans le chauffoir, où l'on m'avait introduit d'abord, et où j'avais le
 droit de rester jusqu'à l'heure du couvre-feu; je préférai gagner le
@@ -14805,7 +14770,7 @@ encore n'était levé.
 
 --C'est le nouveau; c'est un qui est là, qui dort.
 
-Il devenait clair que le nouveau, c'était moi-méme; je feignis de
+Il devenait clair que le nouveau, c'était moi-même; je feignis de
 continuer à dormir; mais déjà ce n'était plus possible; tout le monde
 se levait aux coups d'une cloche, et je fus forcé d'en faire autant.
 
@@ -14880,7 +14845,7 @@ du monde, il n'en était pas de même de l'égalité. Ainsi que je l'ai
 remarqué déjà, la question d'argent mettait une grande différence
 dans les positions, comme celle de costume et d'éducation dans les
 relations et dans les amitiés. Mes anciens camarades de dortoir y
-étaient si accoutumes, qu'à partir du moment où je fus logé à la
+étaient si accoutumés, qu'à partir du moment où je fus logé à la
 pistole, aucun d'entre eux n'osa plus m'adresser la parole; de même,
 on ne voyait presque jamais un républicain en redingote se promener ou
 causer familièrement avec un républicain en veste. J'eus lieu souvent
@@ -14896,7 +14861,7 @@ la bouteille, et de l'autre le plat dans une serviette:
 
 --C'est un poulet pour M. M***.
 
---Tiens I tiens! mais cela doit être bon ...
+--Tiens! tiens! mais cela doit être bon ...
 
 --C'est meilleur que ton bouilli et tes _vestiges,_ observe un autre.
 
@@ -14934,14 +14899,14 @@ force à la porte de la prison. Il était cinq heures. L'un des convives
 me reconduisit jusqu'à la porte, et m'embrassa, me promettant de venir
 me voir en sortant de prison. Il avait, lui, deux ou trois mois à faire
 encore. C'était le malheureux Gallois, que je ne revis plus, car il fut
-lue en duel le lendemain de sa mise en liberté.
+tué en duel le lendemain de sa mise en liberté.
 
 
 
 
 LES NUITS D'OCTOBRE
 
-PARIS--PANTIN--ME AUX
+PARIS--PANTIN--MEAUX
 
 
 
@@ -14963,7 +14928,7 @@ assez loin pour qu'on ne soit pas tenté de revenir le soir,--pour qu'on
 soit sûr que la même sonnette ne vous réveillera pas le lendemain, pour
 qu'on trouve entre deux jours affairés une matinée de calme.
 
-Je plains ceux qui, cherchant le silence et ta solitude, se réveillent
+Je plains ceux qui, cherchant le silence et la solitude, se réveillent
 candidement à Asnières.
 
 Lorsque cette idée m'arriva, il était déjà plus de midi.
@@ -15039,7 +15004,7 @@ toujours.
 
 L'abordez-vous, le voilà charmé d'obtenir un auditeur à son bavardage,
 à ses systèmes, à ses interminables dissertations, à ses récits de
-l'autre monde» Il vous parlera _de omni re scibili et quibusdam
+l'autre monde. Il vous parlera _de omni re scibili et quibusdam
 aliis,_ pendant quatre heures, avec des poumons qui prennent de la
 force en s'échauffant; et ne s'arrêtera qu'en s'apercevant que les
 passants font cercle, ou que les garçons du café font leurs lits. Il
@@ -15054,7 +15019,7 @@ Montmartre.
 Quelle bonne promenade, en effet, que celle des buttes Montmartre, à
 minuit, quand les étoiles scintillent et que l'on peut les observer
 régulièrement au méridien de Louis XIII, près du moulin de Beurre! Un
-tel homme ne craint pas les voleurs. Us le connaissent; non qu'il soit
+tel homme ne craint pas les voleurs. Ils le connaissent; non qu'il soit
 pauvre toujours, quelquefois il est riche; mais ils savent qu'au besoin
 il saurait jouer du couteau, ou faire le _moulinet à quatre faces,_
 en s'aidant du premier bâton venu. Pour le chausson, c'est l'élève de
@@ -15154,7 +15119,7 @@ les eût trouvés sur la place.
 
 --Je suis Saint-Cricq, je viens demander justice d'un tas de ...
 polissons; hommes charmants, mais qui ne comprennent pas ..., enfin,
-qui ne comprennent pas I Où est Gisquet?
+qui ne comprennent pas! Où est Gisquet?
 
 --Monsieur le préfet est couché.
 
@@ -15178,7 +15143,7 @@ je n'en sortirai, etc.
 
 --Ton histoire est jolie, dis-je à mon ami, mais je la connaissais, et
 je ne l'ai écoutée que pour l'entendre raconter par toi. Nous savons
-toutes les facéties de ce bonhomme, ses grandeurs et sa décadente,
+toutes les facéties de ce bonhomme, ses grandeurs et sa décadense,
 ses quarante fiacres, son amitié pour Harel et ses procès avec la
 Comédie-Française, en raison de ce qu'il admirait trop hautement
 Molière. Il traitait les ministres d'alors de _polichinelles._ Il
@@ -15252,7 +15217,7 @@ et que les angles sortants du raisonnement de l'un s'appliquaient
 exactement aux angles rentrants du raisonnement de l'autre.
 
 Alors, pour ménager leurs poumons, ils se bornaient, sur toute question
-philosophique, politique on religieuse, à un certain _Hum_ ou _Heuh,_
+philosophique, politique ou religieuse, à un certain _Hum_ ou _Heuh,_
 diversement accentué, qui suffisait pour amener la solution du problème.
 
 L'un, par exemple, montrait à l'autre, pendant qu'ils prenaient le café
@@ -15462,7 +15427,7 @@ d'une équerre dorée.
 
 Un contrôleur vous prie de déposer le montant d'une chopine (six sous),
 et l'on arrive au premier, où derrière la porte se rencontre le _chef
-d'ordre_,
+d'ordre_.
 
 --Êtes-vous du bâtiment? nous dit-il.
 
@@ -15621,7 +15586,7 @@ chagrins qui me font boire: pourquoi est-ce que Gustine m'a trahi!
 --Je te parle comme à ma mère: si elle revient, c'est fini, je me
 range. Je prends un fonds de bimbeloterie. Je l'épouse.
 
---Encore une bétise!
+--Encore une bêtise!
 
 --Puisqu'elle m'a dit que je n'avais pas d'établissement!
 
@@ -15632,8 +15597,8 @@ range. Je prends un fonds de bimbeloterie. Je l'épouse.
 --Tais-toi donc! dit la femme-Rubens en souriant, ce n'est pas toi qui
 es capable de corriger une femme!
 
-Je n'en voulus pas entendre, davantage. Jean-Jacques avait bien raison
-de s'en prendre au» mœurs des villes d'un principe de corruption qui
+Je n'en voulus pas entendre davantage. Jean-Jacques avait bien raison
+de s'en prendre au mœurs des villes d'un principe de corruption qui
 s'étend plus tard jusqu'aux campagnes. A travers tout cela cependant,
 n'est-il pas triste d'entendre retentir l'accent de l'amour, la
 voix pénétrée d'émotion, la voix mourante du vice, à travers la
@@ -15686,7 +15651,7 @@ occupé par les pharmaciens-Raspail et les débitants de cidre, chez
 lesquels on peut se régaler d'huîtres et de tripes à la mode de Caen.
 Les pharmaciens ne sont pas inutiles, à cause des accidents; mais, pour
 des gens sains qui se promènent, il est bon de boire un verre de cidre
-ou de poirés C'est rafraîchissant.
+ou de poirés. C'est rafraîchissant.
 
 Nous demandâmes du cidre nouveau, car il n'y a que des Normands ou des
 Bretons qui puissent se plaire au cidre _dur._--On nous répondit que
@@ -15794,7 +15759,7 @@ mais la salle est étroite. C'est le rendez-vous des fruitiers-orangers
 et des orangères. Il y a un autre Bordier qui fait le coin de la
 rue aux Ours, et qui est passable; puis le restaurant des Halles,
 fraîchement sculpté et doré, près de la rue de la Reynie... Mais
-autant vandrait la _Maison d'or._
+autant vaudrait la _Maison d'or._
 
 --En voilà d'autres, dis-je en tournant les yeux vers cette longue
 ligne de maisons régulières qui bordent la partie du marché consacré
@@ -15810,7 +15775,7 @@ par les mains de la nature!»
 
 Les hôtes poétiques de ces caves voûtées s'étendaient, après
 souper,.sur les bancs ou sur les tables, et il fallait, le lendemain
-matin, qu'ils se fissent pondrer à deux sous par quelque _merlan_ en
+matin, qu'ils se fissent poudrer à deux sous par quelque _merlan_ en
 plein air, et repriser par les ravaudeuses, pour aller ensuite briller
 aux petits levers de madame de Luxembourg, de mademoiselle Hus ou de la
 comtesse de Beauharnais.
@@ -15842,11 +15807,11 @@ Nous fermons l'oreille aux provocations, et nous nous dirigeons
 vers Baratte, en fendant la presse des marchandes de fruits et de
 fleurs.--L'une crie:
 
---Mes petits choux! Heurissez vos dames!
+--Mes petits choux! Feurissez vos dames!
 
 Et, comme on ne vend à cette heure-là qu'en gros, il faudrait avoir
 beaucoup de dames _à fleurir_ pour acheter de telles bottes de
-bouquets,--Une autre chante la chanson de son état.
+bouquets.--Une autre chante la chanson de son état.
 
 «Pommes de reinette et pommes d'api!--Calville, calville, calville
 rouge!--Calville rouge et calville gris!
@@ -15860,7 +15825,7 @@ artichaut et trois petits choux-fleurs!»
 Insensibles aux voix de ces sirènes, nous entrons enfin chez Baratte.
 Un individu en blouse, qui semblait avoir _son petit jeune homme_ (être
 gris), roulait au même instant sur les bottes de fleurs, expulsé avec
-force, parce qu'il avait lait du bruit. Il s'apprête à dormir sur un
+force, parce qu'il avait fait du bruit. Il s'apprête à dormir sur un
 amas de roses rouges, imaginant sans doute être le vieux Silène, et
 que les bacchantes lui ont préparé ce lit odorant. Les fleuristes se
 jettent sur lui, et le voilà bien plutôt exposé au sort d'Orphée ...Un
@@ -15954,7 +15919,7 @@ Un homme maigre, en habit noir râpé, qui donnait sur un banc, se leva
 en trébuchant:
 
 --Si le bon Dieu, c'est le diable, alors c'est le diable qui est le bon
-Dieu, cela revient toujours an même. Cette brave femme fait un affreux
+Dieu, cela revient toujours au même. Cette brave femme fait un affreux
 paralogisme, dit-il en se tournant vers nous... Comme ce peuple
 est ignorant! Ah! l'éducation, je m'y suis livré bien longtemps. Ma
 philosophie me console de tout ce que j'ai perdu.
@@ -15964,7 +15929,7 @@ philosophie me console de tout ce que j'ai perdu.
 --J'accepte! si vous me permettez de définir la loi divine et la loi
 humaine ...
 
-La tête commençait à me tourner au milieu de ce public étrange; mou
+La tête commençait à me tourner au milieu de ce public étrange; mon
 ami cependant prenait plaisir à la conversation du philosophe, et
 redoublait les petits verres pour l'entendre raisonner et déraisonner
 plus longtemps.
@@ -16021,7 +15986,7 @@ et, quand je descendis à Meaux, il pleuvait à verse. Je me réfugiai
 dans un café, où je fus frappé par l'aspect d'une énorme affiche rouge
 conçue en ces termes:
 
-               PAR PERMISSION DR M. LE MAIRE. (de Meaux)
+               PAR PERMISSION DE M. LE MAIRE. (de Meaux)
 
                          MERVEILLE SURPRENANTE
 
@@ -16117,7 +16082,7 @@ mes doigts dans sa chevelure de mérinos?
 
 Mais Desbarreaux le cartésien répondrait à la Providence:
 
-«Voilà bien du tapage pour ... bien peu de chose»
+«Voilà bien du tapage pour ... bien peu de chose.»
 
 
 
@@ -16128,7 +16093,7 @@ CHOEUR DES GNOMES[1]
 
 Les petits gnomes chantent ainsi:
 
-«Profitons de son sommeil!--Il a en bien tort de régaler le
+«Profitons de son sommeil!--Il a eu bien tort de régaler le
 saltimbanque, et d'absorber tant de bière de Mars en octobre,--à ce
 même café--de _Mars,_ avec accompagnement de cigares, de cigarettes, de
 clarinette et de basson.
@@ -16150,7 +16115,7 @@ marteau,--nous descellerons les parois de ce crâne philosophique--et
 biscornu!
 
 »Pourvu qu'il n'aille pas se loger dans une des cases de son
-cerveau--l'idée d'épouser la femme à la chevelure de mérinos I
+cerveau--l'idée d'épouser la femme à la chevelure de mérinos!
 Nettoyons d'abord le sinciput et l'occiput;--que le sang circule plus
 clair à travers les centres nerveux qui s'épanouissent au-dessus des
 vertèbres.
@@ -16176,7 +16141,7 @@ coup de foulon,--oui, de foulon.--Le coq chante,--l'heure sonne... Il
 en est quitte pour un mal de tête... _Il le fallait!_»
 
 
-[1] Ceci est un clispitre dans le goût allemand. Les _gnomes_ sont de
+[1] Ceci est un chapitre dans le goût allemand. Les _gnomes_ sont de
 petits êtres appartenant à la classe des esprits de la terre, qui sont
 attachés au service de l'homme, ou du moins que leur sympathie conduit
 parfois à lui être utile. (Voir les légendes recueillies par Simmek.)
@@ -16261,7 +16226,7 @@ Et, quoique ami des chats, je caresse aussi ce chien à longs poils gris
 qui s'étire péniblement. Il n'est pas muselé.--N'importe; la chasse est
 ouverte.
 
-Qu'il est doux pour un coeur sensible _de voir lever à aurore_ sur la
+Qu'il est doux pour un coeur sensible _de voir lever l'aurore_ sur la
 Marne, à quarante kilomètres de Paris!
 
 Là-bas, sur le même bord, au delà des moulins, est un autre café
@@ -16320,8 +16285,8 @@ Or, le vrai, c'est le faux, du moins en art et en poésie. Quoi de plus
 faux que l'_Iliade,_ que l'_Énéide,_ que la _Jérusalem délivrée,_ que
 la _Henriade_? que les tragédies, que les romans?...
 
---Eh bien, moi, dit le critique, j'aime ce faux. Est-ce que Cela
-m'amuse, que vous me racontiez votre vie pas à pas, que Vous analysiez
+--Eh bien, moi, dit le critique, j'aime ce faux. Est-ce que cela
+m'amuse, que vous me racontiez votre vie pas à pas, que vous analysiez
 vos rêves, vos impressions, vos sensations?... Que m'importe que
 vous ayez couché à la _Sirène,_ chez le Vallois? Je présume que cela
 n'est pas vrai, ou bien que cela est arrangé. Vous me direz d'aller y
@@ -16371,7 +16336,7 @@ cachucha avec cette jeune personne que j'ai l'honneur de vous présenter.
 La cachucha n'était pas mal, mais exécutée dans un goût un peu
 classique... Enfin, la femme aux cheveux de mérinos parut dans toute
 sa splendeur. C'étaient effectivement des cheveux de mérinos. Deux
-touffes, placées sur le front; se dressaient en cornes.--Elle aurait
+touffes, placées sur le front, se dressaient en cornes.--Elle aurait
 pu se faire faire un châle de cette abondante chevelure. Que de maris
 seraient heureux de trouver dans les cheveux de leurs femmes cette
 _matière première_ qui réduirait le prix de leurs vêtements à la simple
@@ -16428,7 +16393,7 @@ mais, comme le public français veut toujours savoir les raisons de
 tout, il est temps d'indiquer ce point.
 
 Un de mes amis,--un limonadier de Creil,--ancien _hercule_ retiré, et
-se livrant a la chasse dans ses moments perdus, m'avait invité, ces
+se livrant à la chasse dans ses moments perdus, m'avait invité, ces
 jours derniers, à une chasse à la loutre sur les bords de l'Oise:
 
 Il était très-simple de me rendre à Creil par le Nord; mais le chemin
@@ -16528,7 +16493,7 @@ XXIV
 EN PRISON
 
 Certes, je n'avais rien dit d'inconvenant ni de monstrueux. Aussi, la
-nuit arrivant, je crus bon de me diriger vers le bureau des voitures,
+nuit arrivant, je crus bon de me diriger vers le bureau des voitures.
 Il fallait encore attendre une demi-heure.--J'ai demandé à souper pour
 passer le temps.
 
@@ -16596,7 +16561,7 @@ apprivoiser des araignées.
 --Est-ce que c'est humide? dis-je au geôlier.
 
 --Très-sec, au contraire. Aucun de ces _messieurs_ ne s'en est plaint
-depuis les restaurations. Ma femme va vous, faire un lit.
+depuis les restaurations. Ma femme va vous faire un lit.
 
 --Pardon, je suis Parisien: je le voudrais très-doux.
 
@@ -16644,7 +16609,7 @@ trois spectres accusateurs me jetaient ces mots méprisants:
 
 --_Fantaisiste! réaliste!! essayste!!!_
 
-Je saisis quelques phrases de l'accusation formulée' à l'aide d'un
+Je saisis quelques phrases de l'accusation formulée à l'aide d'un
 organe qui semblait être celui de M. Patin:
 
 -Du _réalisme_ au crime, il n'y a qu'un pas; car le crime est
@@ -16770,7 +16735,7 @@ les fers. Ceci n'est pas une critique de ce qui se passe aujourd'hui.
 Cela s'est toujours fait ainsi. Je ne raconte cette aventure que pour
 demander que, comme pour d'autres choses, on tente un progrès sur ce
 point.--Si je n'avais pas parcouru la moitié du monde, et vécu avec les
-Arabes, les Grecs, les Persans, dans les khans des caravansérais et
+Arabes, les Grecs, les Persans, dans les khans des caravansérails et
 sous les tentes, j'aurais eu peut-être un sommeil plus troublé encore,
 et un réveil plus triste, pendant ce simple épisode d'un voyage de
 Meaux à Oeil.
@@ -16836,11 +16801,11 @@ les âpres montées et abaisse les hauteurs du versant de Paris, le vieux
 mont de Mars aura bientôt le sort de la butte des Moulins, qui, au
 siècle dernier, ne montrait guère un front moins superbe. Cependant, il
 nous reste encore un certain nombre de coteaux ceints d'épaisses haies
-vertes, que l'épine-vinette décore tour à tour de ses fleurs Violettes
+vertes, que l'épine-vinette décore tour à tour de ses fleurs violettes
 et de ses baies pourprées.
 
 Il y a des moulins, des cabarets et des tonnelles, des élysées
-Champêtres et des ruelles silencieuses, bordées de chaumières,
+champêtres et des ruelles silencieuses, bordées de chaumières,
 de granges et de jardins touffus, des plaines vertes coupées de
 précipices, où les sources filtrent dans la glaise, détachant peu à
 peu certains flots de verdure où s'ébattent des chèvres, qui broutent
@@ -16885,8 +16850,8 @@ qui en ont transformé l'aspect. Ils ont planté des arbres, créé des
 champs où verdissent la pomme de terre et la betterave, où l'asperge
 montée étalait naguère ses panaches verts décorés de perles rouges.
 
-On descend le chemin et l'on tourne à gauche. La sont encore deux ou
-trois collines vertes, entaillées par une roule qui plus loin comble
+On descend le chemin et l'on tourne à gauche. Là sont encore deux ou
+trois collines vertes, entaillées par une route qui plus loin comble
 des ravins profonds, et qui tend à joindre un jour la rue de l'Empereur
 entre les buttes et le cimetière. On rencontre là un hameau qui sent
 fortement la campagne, et qui a renoncé depuis trois ans aux travaux
@@ -16973,19 +16938,19 @@ ou comme fatigue, à une course d'omnibus.
 Je me suis trouvé très-heureux de cette idée, et j'ai choisi
 Saint-Germain, qui est pour moi une ville de souvenirs. Quel voyage
 charmant! Asnières, Chatou, Nanterre et le Pecq; la Seine trois fois
-repliée, des points de vue d'Iles vertes, de plaines, de bois, de
+repliée, des points de vue d'îles vertes, de plaines, de bois, de
 chalets et de villas; à droite, les coteaux de Colombes, d'Argenteuil
 et de Carrières; à gauche, le mont Valérien, Bougival, Luciennes et
 Marly; puis la plus belle perspective du monde: la terrasse et les
 vieilles galeries du château de Henri IV, couronnées par le profil
-sévère du château de François Ier. J'ai toujours aime ce
+sévère du château de François Ier. J'ai toujours aimé ce
 château bizarre, qui, sur le plan, a la forme d'un D gothique, en
 l'honneur, dit-on, du nom de la belle Diane.--Je regrette seulement
 de n'y pas voir ces grands toits écaillés d'ardoises, ces clochetons à
 jour où se déroulaient des escaliers en spirale, ces hautes fenêtres
 sculptées s'élançant d'un fouillis de toits anguleux qui caractérisent
 l'architecture valoise. Des maçons ont défiguré, sous Louis XVIII, la
-face qui regarde le parterre. Depuis, l'on a transforme ce monument
+face qui regarde le parterre. Depuis, l'on a transformé ce monument
 en pénitencier, et l'on a déshonoré l'aspect des fossés et des ponts
 antiques par une enceinte de murailles couvertes d'affiches. Les hautes
 fenêtres et les balcons dorés, les terrasses où ont paru tour à tour
@@ -17002,7 +16967,7 @@ forêt.
 
 Je revenais là, comme Ravenswood au château de ses pères; j'avais
 eu des parents parmi les hôtes de ce château,--il y a vingt ans
-déjà;--d'autres, habitants de la ville; eu tout, quatre tombeaux... Il
+déjà;--d'autres, habitants de la ville; en tout, quatre tombeaux... Il
 se mêlait encore à ces impressions des souvenirs d'amour et de fêtes
 remontant à l'époque des Bourbons--de sorte que je fus tour à tour
 heureux et triste tout un soir!
@@ -17016,7 +16981,7 @@ chope de bière. Il y avait au fond trois cloportes;--un homme qui a
 vécu en Orient est incapable de s'affecter d'un pareil détail.
 
 --Garçon! dis-je, il est possible que j'aime les cloportes; mais, une
-autre fois, si j'en demande, je désirerais qu'on me les servit à part.
+autre fois, si j'en demande, je désirerais qu'on me les servît à part.
 
 Le mot n'était pas neuf, s'étant déjà appliqué à des cheveux servis
 sur une omelette; mais il pouvait encore être goûté à Saint Germain.
@@ -17159,7 +17124,7 @@ boutiques s'éclairent rue de Paris et rue au Pain; on cause d'abord
 sur la porte, on rit, on chante même.--L'accent des voix est fort
 distinct de celui de Paris; les jeunes filles ont la voix pure et bien
 timbrée, comme dans les pays de montagnes. En passant dans la rue de
-l'Église, j'entendis chanter au fond d'un petit café. J'y voyais entier
+l'Église, j'entendis chanter au fond d'un petit café. J'y voyais entrer
 beaucoup de monde et surtout des femmes. En traversant la boutique,
 je me trouvai dans une grande salle toute pavoisée de drapeaux et
 de guirlandes avec les insignes maçonniques et les inscriptions
@@ -17322,7 +17287,7 @@ chacun est le trésor de tous.
 
 Un jour, un cheval s'échappa d'une pelouse verte qui bordait l'Aisne,
 et disparut bientôt entre les halliers; il gagna la région sombre des
-arbres et se perdit dans la forêt de Compiègne. Cela se passait vers
+arbres et se perdît dans la forêt de Compiègne. Cela se passait vers
 1770.
 
 Ce n'est pas un accident rare qu'un cheval échappé à travers une
@@ -17376,7 +17341,7 @@ fille aînée est ensevelie bien loin de là, dans la froide Silésie,
 au cimetière catholique polonais de Gross-Glogaw. Elle est morte à
 vingt-cinq ans des fatigues de la guerre, d'une fièvre qu'elle gagna
 en traversant un pont chargé de cadavres, où sa voiture manqua d'être
-renversée. Mon père, chargé de rejoindre l'armée à Moscou, perdit plus
+renversée. Mon père, chargé de rejoindre l'armée à Moscou, perdît plus
 tard ses lettres et ses bijoux dans les flots de la Bérésina.
 
 Je n'ai jamais vu ma mère, ses portraits ont été perdus ou volés; je
@@ -17487,7 +17452,7 @@ m'enseignait à la fois les premiers éléments de cet art et ceux de la
 musique, pendant qu'un peintre de portraits, nommé Mignard, me donnait
 des leçons de dessin. Mademoiselle Nouvelle était l'_étoile_ de notre
 salle de danse. Je rencontrai un rival dans un joli garçon nommé
-Provost. Ce fut lui qui m'enseigna l'an dramatique: nous représentions
+Provost. Ce fut lui qui m'enseigna l'art dramatique: nous représentions
 ensemble de petites comédies qu'il improvisait avec esprit.
 Mademoiselle Nouvelle était naturellement notre actrice principale
 et tenait une balance si exacte entre nous deux, que nous soupirions
@@ -17495,7 +17460,7 @@ sans espoir... Le pauvre Provost s'est fait depuis acteur sous le nom
 de Raymond; il se souvint de ses premières tentatives, et se mit à
 composer des féeries, dans lesquelles il eut pour collaborateurs les
 frères Cogniard.--Il a fini bien tristement en se prenant de querelle
-avec un régisseur de la Gaieté, auquel il donna un soufflet Rentré chez
+avec un régisseur de la Gaieté, auquel il donna un soufflet. Rentré chez
 lui, il réfléchit amèrement aux suites de son imprudence, et, la nuit
 suivante, se perça le cœur d'un coup de poignard.
 
@@ -17517,7 +17482,7 @@ et d'une mélodie de Byron, dont je traduisais ainsi le refrain:
 
 Quelquefois, je me levais dès le point du jour et je prenais la route
 de ***, courant et déclamant mes vers au milieu d'une pluie battante.
-La cruelle se riait de mes amours errantes et de mes soupirs I C'est
+La cruelle se riait de mes amours errantes et de mes soupirs! C'est
 pour elle que je composai une poésie, imitée d'une mélodie de Thomas
 Moore.
 
@@ -17664,7 +17629,7 @@ par le chemin de fer de la partie qui borde l'Oise. On monte vers
 Chantilly en côtoyant de hautes collines de grès d'un aspect solennel,
 puis c'est un bout de la forêt; la Nonette brille dans les prés bordant
 les dernières maisons de la ville. La Nonette! une des chères petites
-rivières où j'ai péché des écrevisses; de l'autre côté de la forêt
+rivières où j'ai pêché des écrevisses; de l'autre côté de la forêt
 coule sa sœur la Thève, où je me suis presque noyé pour n'avoir pas
 voulu paraître poltron devant la petite Célénie!
 
@@ -17701,7 +17666,7 @@ Velléda du vieux pays des Sylvanectes m'a laissé des souvenirs que le
 temps ravive. Qu'est-elle devenue? Je m'en informerai du côté de la
 Chapelle-en-Serval ou de Charlepont, ou de Montméliant... Elle avait
 des tantes partout, des cousines sans nombre: que de morts dans tout
-celai que de malheureux sans doute dans un pays si heureux autrefois!
+cela! que de malheureux sans doute dans un pays si heureux autrefois!
 
 Au moins, Chantilly porte noblement sa misère; comme ces vieux
 gentilshommes au linge blanc, à la tenue irréprochable, il a cette
@@ -17742,17 +17707,17 @@ dit; elle s'est sans doute mariée?
 --Mon Dieu oui, et, depuis, elle est morte de la poitrine ...
 
 J'ose à peine dire que cela me frappa plus vivement que les souvenirs
-du prince de Condé. Je l'avais vue toute jeune, et certes je l'aurais
+du prince de Condé. Je t'avais vue toute jeune, et certes je l'aurais
 aimée, si à cette époque je n'avais eu le cœur occupé d'une autre...
 Et maintenant voilà que je pense à la ballade allemande _la Fille de
 l'hôtesse,_ et aux trois compagnons, dont l'un disait: «Oh! si je
-l'avais connue, comme je l'aurais aimée!»--et le second: «Je t'ai
+t'avais connue, comme je l'aurais aimée!»--et le second: «Je t'ai
 connue, et je t'ai tendrement aimée!»--et le troisième: «Je ne t'ai pas
 connue ... mais je t'aime et t'aimerai pendant l'éternité!»
 
 Encore une figure blonde qui pâlit, se détache et tombe glacée à
 l'horizon de ces bois baignés de vapeurs grises... J'ai pris la voiture
-de Senlis, qui suit le cours de la Nonette en passant par Saint-Firinin
+de Senlis, qui suit le cours de la Nonette en passant par Saint-Firmin
 et par Courteuil; nous laissons à gauche Saint-Léonard et sa vieille
 chapelle, et nous apercevons déjà le haut clocher de la cathédrale. A
 gauche est le champ des _Raines,_ où saint Rieul, interrompu par les
@@ -17781,7 +17746,7 @@ paraissaient y vivre assez commodément. Deux jolies filles s'occupaient
 de repriser leurs ajustements pailletés, une femme encore belle faisait
 la cuisine et le chef de la famille donnait des leçons de maintien à un
 jeune homme de bonne mine qu'il dressait à jouer les amoureux. C'est
-que. ces gens ne se bornaient pas aux exercices d'agilité, et jouaient
+que ces gens ne se bornaient pas aux exercices d'agilité, et jouaient
 aussi la comédie. On les invitait souvent dans les châteaux de la
 province, et ils me montrèrent plusieurs attestations de leurs talents,
 signées de noms illustres. Une des jeunes filles se mit à déclamer
@@ -17844,7 +17809,7 @@ LES CHIMÈRES.
 
     Depuis qu'un duc normand brisa tes dieux d'argile,
     Toujours, sous les rameaux du laurier de Virgile,
-    Le pâte Hortensia s'unit au, Myrtue vert!
+    Le pâte Hortensia s'unit au Myrte vert!
 
 
 
@@ -17940,7 +17905,7 @@ LES CHIMÈRES.
     LE CHRIST AUX OLIVIERS.
 
 
-    Dieu est mort e le ciel est vide...
+    Dieu est mort et le ciel est vide...
     Pleurez! enfants, vous n'avez plus de père!
                                Jean Paul.
 
@@ -18033,7 +17998,7 @@ LES CHIMÈRES.
     V
 
     C'était bien lui, ce fou, cet insensé sublime ...
-    Cet Icare oublie qui remontait les cieux,
+    Cet Icare oublié qui remontait les cieux,
     Ce Phaéton perdu sous la foudre des dieux,
     Ce bel Atys meurtri que Cybèle ranime!
 
@@ -18138,10 +18103,10 @@ parole, à l'affront d'être rebuté, ou d'avoir, à ses yeux, la mine d'un
 galant de carrefour?
 
 MAZETTO. Je vous répète que vous n'avez rien à faire qu'à vous promener
-le long de ce quai, presque désert à celle heure; elle passera, cachant
+le long de ce quai, presque désert à cette heure; elle passera, cachant
 son visage baissé sous la frange de sa mantille; elle vous adressera la
-parole elle-même, et vous indiquera un rendez-vous pour-ce soir, car
-l'endroit est peu propres une conversation suivie. Serez-vous content?
+parole elle-même, et vous indiquera un rendez-vous pour ce soir, car
+l'endroit est peu propre à une conversation suivie. Serez-vous content?
 
 FABIO. O Mazello! si tu dis vrai, tu me sauves la vie!
 
@@ -18289,7 +18254,7 @@ répéter.
 MARCELLI. Et c'est ce qu'il me faut, vrai Dieu! un confident muet
 comme une tombe.
 
-FABIO. Bon! ne saisie pas vos façons?... Vous voulez publier une bonne
+FABIO. Bon! ne sais-je pas vos façons?... Vous voulez publier une bonne
 fortune, et vous m'avez choisi pour le héraut de votre gloire.
 
 MARCELLI. Au contraire, je veux prévenir une indiscrétion, en vous
@@ -18462,7 +18427,7 @@ demain de votre folle vanterie. Je ne vous croyais qu'indiscret.
 MARCELLI. Bon! séparons-nous sans un mot de plus. Je ne veux point vous
 contraindre à des aveux humiliants, ni compromettre davantage une dame
 qui n'a pour moi que des bontés. Je compte sur votre réserve et vous
-donnerai demain matin dos nouvelles de ma soirée.
+donnerai demain matin des nouvelles de ma soirée.
 
 FABIO. Je vous en promets autant; mais ensuite nous ferraillerons de
 bon cœur. A demain donc.
@@ -18472,7 +18437,7 @@ MARCELLI. A demain, seigneur Fabio.
 FABIO, seul.
 
 Je ne sais quelle inquiétude m'a porté à le suivre de loin, au lieu
-d'aller de mon côté. Retournons I (_Il fait quelques pas._) Il est
+d'aller de mon côté. Retournons! (_Il fait quelques pas._) Il est
 impossible de porter plus loin l'assurance, mais aussi ne pouvait-il
 guère revenir sur sa prétention et me confesser son mensonge. Voilà
 de nos jeunes fous à la mode; rien ne leur fait obstacle, ils sont
@@ -18520,7 +18485,7 @@ Le seigneur Marcelli peut vous reconduire chez vous, puisque vous
 lui avez donné le bras; mais ensuite, qu'il se souvienne bien que je
 l'attends, moi.
 
-MARCELLI. Écoulez, mon cher, tâchez, dans cette affaire-ci, de n'être
+MARCELLI. Écoutez, mon cher, tâchez, dans cette affaire-ci, de n'être
 que ridicule.
 
 FABIO. Ridicule, dites-vous?
@@ -18532,7 +18497,7 @@ point de me faire arrêter par la garde de nuit.
 CORILLA. Cet homme est fou; ne le voyez-vous pas? Éloignons-nous.
 
 FABIO. Ah! madame! il suffit ... ne brisez pas entièrement cette belle
-image que je portais pure et sainte au fond do mon cœur. Hélas! content
+image que je portais pure et sainte au fond de mon cœur. Hélas! content
 de vous aimer de loin, de vous écrire ... j'avais peu d'espérance, et
 je demandais moins que vous ne m'avez promis!
 
@@ -18553,7 +18518,7 @@ Ce cavalier croit avoir à se plaindre de moi: qu'il parle et qu'il se
 nomme avant tout; car j'ignore ce qu'il est et ce qu'il veut.
 
 FABIO. Rassurez-vous, madame! j'ai honte d'avoir fait cet éclat et
-d'avoir cédé à un premier mouvement do surprise. Vous m'accusez
+d'avoir cédé à un premier mouvement de surprise. Vous m'accusez
 d'imposture, et votre belle bouche ne peut mentir. Vous l'avez dit, je
 suis fou, j'ai rêvé. Ici même, il y a une heure, quelque chose comme
 votre fantôme passait, m'adressait de douces paroles et promettait de
@@ -18567,7 +18532,7 @@ vous l'apprendre, mais vous n'entendrez plus parler de moi, je le jure,
 et vous dis adieu.
 
 CORILLA. Vos lettres... Tenez, tout cela a l'air d'un imbroglio de
-comédie, permettez-moi de ne m'y point arrèter davantage; seigneur
+comédie, permettez-moi de ne m'y point arrêter davantage; seigneur
 Marcelli, veuillez reprendre mon bras et me reconduire en toute hâte
 chez moi. (_Fabio salue et s'éloigne._)
 
@@ -18593,7 +18558,7 @@ voilà le traître qui s'est joué de moi.
 MARCELLI. C'est Mazetto! le plus grand fripon des Deux-Siciles. Quoi!
 c'était aussi votre messager?
 
-MAZETTO. Au diable! vous m'étoufiez.
+MAZETTO. Au diable! vous m'étouffez.
 
 FABIO. Tu vas nous expliquer...
 
@@ -18706,7 +18671,7 @@ cru tantôt voir passer madame elle-même?
 
 FABIO. Eh bien! cette femme...
 
-MAZETTO. Cette femme, seigneur, est celle qui Tous attend à la
+MAZETTO. Cette femme, seigneur, est celle qui vous attend à la
 Villa-Reale, ou plutôt qui ne vous attend plus, l'heure étant de
 beaucoup passée.
 
@@ -18715,7 +18680,7 @@ FABIO. Peut-on imaginer une plus noire complication d'intrigues?
 MARCELLI. Mais non; l'aventure est plaisante. Et, voyez, la signora
 elle-même ne peut s'empêcher d'en rire... Allons, beau cavalier,
 séparons-nous sans rancune, et corrigez-moi ce drôle d'importance... Ou
-plutôt, tenez, profilez de son idée: la nuée qu'embrassait Ixion valait
+plutôt, tenez, profitez de son idée: la nuée qu'embrassait Ixion valait
 bien pour lui la divinité dont elle était l'image, et je vous crois
 assez poète pour vous soucier peu des réalités.--Bonsoir, seigneur
 Fabio!
@@ -18726,7 +18691,7 @@ FABIO, à _lui-même._ Elle était là! et pas un mot de pitié, pas un
 signe d'attention! Elle assistait, froide et morne, à ce débat qui me
 couvrait de ridicule, et elle est partie dédaigneusement sans dire
 une parole, riant seulement, sans doute, de ma maladresse et de ma
-simplicité!... Oh! tu peux le retirer, va, pauvre diable si inventif,
+simplicité!... Oh! tu peux te retirer, va, pauvre diable si inventif,
 je ne maudis plus ma mauvaise étoile, et je vais rêver le long de la
 mer à mon infortune, car je n'ai plus même l'énergie d'être furieux.
 
@@ -18735,10 +18700,10 @@ Villa-Reale. La bouquetière vous attend peut-être encore...
 
 FABIO, seul.
 
-En vérité, j'aurais été curieux de rencontrer celte créature et de
+En vérité, j'aurais été curieux de rencontrer cette créature et de
 la traiter comme elle le mérite. Quelle femme est-ce donc que celle
 qui se prête à une telle manœuvre? Est-ce une niaise enfant a qui
-Ton a fait la leçon, ou quelque effrontée qu'on n'a eu que la peine
+l'on a fait la leçon, ou quelque effrontée qu'on n'a eu que la peine
 de payer et de mettre en campagne? Mais il faut l'âme d'un plat
 valet pour m'avoir jugé digne de donner dans ce piège un instant. Et
 pourtant elle ressemble à celle que j'aime, et moi-même, quand je
@@ -18766,13 +18731,13 @@ LA BOUQUETIÈRE. Venez ici à la lumière. Vous m'avez l'air d'un beau
 cavalier, et, si vous n'êtes pas attendu, c'est que vous attendez...
 Ah! mon Dieu!
 
-FABIO. Qu'as-tu, ma petite? Mais vraiment, celte figure... Ah! je
+FABIO. Qu'as-tu, ma petite? Mais vraiment, cette figure... Ah! je
 comprends tout maintenant: tu es la fausse Corilla!... A ton âge, mon
 enfant, tu entames un vilain métier!
 
 LA BOUQUETIÈRE. En vérité, seigneur, je suis une honnête fille, et
 vous allez me mieux juger. On m'a déguisée en grande dame, on m'a
-fait apprendre des mois par cœur; mais, quand j'ai vu que c'était une
+fait apprendre des mots par cœur; mais, quand j'ai vu que c'était une
 comédie pour tromper un honnête gentilhomme, je me suis échappée et
 j'ai repris mes habits de pauvre fille, et je suis allée, comme tous
 les soirs, vendre mes fleurs sur la place du Môle et dans les allées du
@@ -18784,7 +18749,7 @@ LA BOUQUETIÈRE. Si vrai, que je vous dis adieu, seigneur; et puisque
 vous ne voulez pas de mes fleurs, je les jetterai dans la mer en
 passant: demain elles seraient fanées.
 
-FABIO. Pauvre fille, cet habit te sied mieux que l'autre, et je le
+FABIO. Pauvre fille, cet habit te sied mieux que l'autre, et je te
 conseille de ne plus le quitter. Tu es, toi, la fleur sauvage des
 champs; mais qui pourrait se tromper entre vous deux? Tu me rappelles
 sans doute quelques-uns de ses traits, et ton cœur vaut mieux que le
@@ -18818,7 +18783,7 @@ n'est pas né dans une soirée. Depuis trois mois que je suis à Naples,
 je n'ai pas manqué de la voir un seul jour d'Opéra. Trop pauvre pour
 briller près d'elle, comme tous les beaux cavaliers qui l'entourent
 aux promenades, n'ayant ni le génie des musiciens, ni la renommée des
-poêles qui l'inspirent et qui la servent dans son talent, j'allais
+poëtes qui l'inspirent et qui la servent dans son talent, j'allais
 sans espérance m'enivrer de sa vue et de ses" chants, et prendre ma
 part dans ce plaisir de tous, qui pour moi seul était le bonheur et
 la vie. Oh! tu la vaux bien peut-être, en effet ... mais as-tu cette
@@ -18894,7 +18859,7 @@ poète. Et maintenant, veuillez tous deux m'accompagner. Chacun de vous
 avait gagé de souper avec moi: j'en avais fait la promesse à chacun de
 vous; nous souperons tous ensemble, Mazetto nous servira.
 
-MAZETTO, _paraissant et s'adressant an public._ Sur quoi, messieurs,
+MAZETTO, _paraissant et s'adressant au public._ Sur quoi, messieurs,
 vous voyez que cette aventure scabreuse va se terminer le plus
 moralement du monde.--Excusez les fautes de l'auteur.
 
@@ -18951,368 +18916,5 @@ moralement du monde.--Excusez les fautes de l'auteur.
 
 End of the Project Gutenberg EBook of Le rêve et la vie, by Gérard de Nerval
 
-*** END OF THIS PROJECT GUTENBERG EBOOK LE RÊVE ET LA VIE ***
 
-***** This file should be named 55554-0.txt or 55554-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/5/5/5/55554/
-
-Produced by Laura Natal Rodriguez and Marc D'Hooghe at
-Free Literature (online soon in an extended version,also
-linking to free sources for education worldwide ... MOOC's,
-educational materials,...) Images generously made available
-by the Gallica, Bibliothèque nationale de France.)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 55554 ***
